@@ -66,12 +66,10 @@ class TokenizedSentence(BaseModel):
 # and not using environment variables or userdata.
 try:
     # Attempt to get API key from environment variable
-    os.environ["GROK_API_KEY"] = "xai-UNG5bAHzI5gncecdW0r1xR5yWZGquSFitOeuawFUtmICUNcKCDpaQGwrfd8xyvfJF8CG7xTW4fuWmx8N"
     api_key = os.environ.get("GROK_API_KEY")
     if not api_key:
         # Fallback or specific instruction for local setup
         # Replace with your actual key if needed, but environment variables are safer
-        api_key = "xai-UNG5bAHzI5gncecdW0r1xR5yWZGquSFitOeuawFUtmICUNcKCDpaQGwrfd8xyvfJF8CG7xTW4fuWmx8N"
         if api_key == "YOUR_API_KEY":
            print("⚠️ Warning: API key not found in environment variables. Using placeholder.")
            print("   Please set the GROK_API_KEY environment variable or replace 'YOUR_API_KEY' in the code.")
