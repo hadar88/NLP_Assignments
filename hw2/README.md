@@ -25,7 +25,7 @@ To setup the environment do:
     ```
 5. Activate the project virtual env: 
    ```
-   source .venv\bin\activate
+   source .venv/bin/activate
    ```
 6. Open the notebooks (*.ipynb) in VS Code and verify you can execute the cells.
     ```

@@ -1,0 +1,32 @@
+{
+  "predict": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "Extract contiguous tokens referring to specific people, if any, from a list of string tokens.\nOutput a list of tokens. In other words, do not combine multiple tokens into a single value.",
+      "fields": [
+        {
+          "prefix": "Tokens:",
+          "description": "tokenized text"
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Extracted People:",
+          "description": "all tokens referring to specific people extracted from the tokenized text"
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.12",
+      "dspy": "2.6.27",
+      "cloudpickle": "3.0"
+    }
+  }
+}
