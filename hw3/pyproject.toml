@@ -1,0 +1,14 @@
+[project]
+name = "nlp-with-llms-2025-hw3"
+version = "0.1.0"
+description = "NLP with LLMs 2025 - HW3 - Michael Elhadad - Experiment with PragmatiCQA and DSPy"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "dspy-ai>=2.6.27",
+    "faiss-cpu>=1.11.0.post1",
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.7",
+    "sentence-transformers>=5.0.0",
+]
