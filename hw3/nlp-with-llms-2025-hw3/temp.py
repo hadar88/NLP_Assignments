@@ -178,6 +178,14 @@ print("-" * 35)
 for config, results in test_results.items():
     print(f"{config:<12} | {results['f1']:.3f}   | {results['count']}")
 
+
+
+
+
+
+
+
+
 # Second: Evaluate on validation dataset with precision, recall, and F1
 print("\n=== Evaluating on Validation Dataset ===")
 print(f"Total conversations in validation set: {len(val_data)}")
