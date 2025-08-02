@@ -15,11 +15,11 @@ with open("../PragmatiCQA/data/test.jsonl", 'r') as file:
         if 'topic' in data:
             topics.add(data['topic'])
 
-with open("../PragmatiCQA/data/val.jsonl", 'r') as file:
-    for line in file:
-        data = json.loads(line)
-        if 'topic' in data:
-            topics.add(data['topic'])
+# with open("../PragmatiCQA/data/val.jsonl", 'r') as file:
+#     for line in file:
+#         data = json.loads(line)
+#         if 'topic' in data:
+#             topics.add(data['topic'])
 
 
 # print("Folders in ../PragmatiCQA-sources:")
@@ -32,11 +32,7 @@ for topic in topics:
     if topic not in folders:
         print(topic)
 
-# Po
-# The Wonderful Wizard of Oz (book)
-# Spirited Away
-# A Nightmare on Elm Street (2010 film)
-# New York Yankees
 # Snoopy
-# Alexander Hamilton
-# Popeye
+# Spirited Away
+# New York Yankees
+# Po
