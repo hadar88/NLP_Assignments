@@ -9,17 +9,17 @@ folders = list_folders()
 
 topics = set()
 
-with open("../PragmatiCQA/data/test.jsonl", 'r') as file:
-    for line in file:
-        data = json.loads(line)
-        if 'topic' in data:
-            topics.add(data['topic'])
-
-# with open("../PragmatiCQA/data/val.jsonl", 'r') as file:
+# with open("../PragmatiCQA/data/test.jsonl", 'r') as file:
 #     for line in file:
 #         data = json.loads(line)
 #         if 'topic' in data:
 #             topics.add(data['topic'])
+
+with open("../PragmatiCQA/data/val.jsonl", 'r') as file:
+    for line in file:
+        data = json.loads(line)
+        if 'topic' in data:
+            topics.add(data['topic'])
 
 
 # print("Folders in ../PragmatiCQA-sources:")
@@ -32,7 +32,7 @@ for topic in topics:
     if topic not in folders:
         print(topic)
 
-# Snoopy
-# Spirited Away
-# New York Yankees
-# Po
+# A Nightmare on Elm Street (2010 film)
+# Popeye
+# The Wonderful Wizard of Oz (book)
+# Alexander Hamilton
