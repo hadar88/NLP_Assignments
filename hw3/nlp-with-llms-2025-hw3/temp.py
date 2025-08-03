@@ -205,30 +205,21 @@ for config in ["Literal", "Pragmatic", "Retrieved"]:
     f1_scores = []
     
     for example, pred in zip(examples, predictions):
-        try:
-            # Create proper dspy.Example objects for SemanticF1
-            gold_example = dspy.Example(question=example.question, response=example.response)
-            pred_example = dspy.Example(question=pred.question, response=pred.response)
+        score = metric_decomp(example, pred)
             
-            score = metric_decomp(gold_example, pred_example)
-            
-            # Extract precision, recall, F1 if available in decomposed format
-            if hasattr(score, 'precision') and hasattr(score, 'recall') and hasattr(score, 'f1'):
-                precision_scores.append(float(score.precision))
-                recall_scores.append(float(score.recall))
-                f1_scores.append(float(score.f1))
-            else:
-                # If not decomposed, use the score as F1 and approximate precision/recall
-                f1_score = float(score)
-                f1_scores.append(f1_score)
-                precision_scores.append(f1_score)  # Approximation
-                recall_scores.append(f1_score)     # Approximation
+        # Extract precision, recall, F1 if available in decomposed format
+        if hasattr(score, 'precision') and hasattr(score, 'recall') and hasattr(score, 'f1'):
+            precision_scores.append(float(score.precision))
+            recall_scores.append(float(score.recall))
+            f1_scores.append(float(score.f1))
+        else:
+            # If not decomposed, use the score as F1 and approximate precision/recall
+            f1_score = float(score)
+            f1_scores.append(f1_score)
+            precision_scores.append(f1_score)  # Approximation
+            recall_scores.append(f1_score)     # Approximation
                 
-        except Exception as e:
-            print(f"Error evaluating example: {e}")
-            precision_scores.append(0.0)
-            recall_scores.append(0.0)
-            f1_scores.append(0.0)
+
     
     # Calculate averages
     avg_precision = sum(precision_scores) / len(precision_scores) if precision_scores else 0.0
