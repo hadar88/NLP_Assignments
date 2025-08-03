@@ -1,403 +1,2007 @@
 {
-  "Literal|Is the Batman comic similar to the movies?|Gotham City socialites": 0.33333333333333337,
-  "Literal|what is batman's real name?|Bruce Wayne": 0.6666666666666666,
-  "Literal|How old was batman when he first became batman?|I don't know": 0.4996249062265567,
-  "Literal|Does Batman Have super powers, like invisibility, or the ability to organically shoot a web from his hand?|No": 0.2222222222222222,
-  "Literal|Who are Batman's biggest enemies?|Catwoman": 0.4,
-  "Literal|What is Batmans real name?|Bruce Wayne": 0.5,
-  "Literal|Ok, Is batman a superhero?|Yes": 0.5,
-  "Literal|who is the hero in batman|Bruce Wayne": 0.6666666666666666,
-  "Literal|When did Batman first appear?|May, 1939": 0.4,
-  "Literal|Did Batman start with a book or a movie?|Detective Comics": 0.4996249062265567,
-  "Literal|how old is batman?|May, 1939": 0.4996249062265567,
-  "Literal|how old is batman?|1939": 0.6666666666666666,
-  "Literal|what is batman's real name? |Bruce Wayne": 0.4996249062265567,
-  "Literal|Is batman s a superhero? |Batman": 0.33333333333333337,
-  "Literal|what year was it release? |1939": 0.6666666666666666,
-  "Literal|Hi. When was the first Batman comic released?|1939": 0.4996249062265567,
-  "Literal|When was the original batman released?|May 1939": 0.33333333333333337,
-  "Literal|Batman|Batman": 0.2222222222222222,
-  "Literal|Who is Batman?|a superhero": 0.4,
-  "Literal|Who is batman?|Patriarch of the Bat Family": 0.0,
-  "Literal|What was the first piece of media to feature Batman|DC Comics": 0.6666666666666666,
-  "Literal|When the first Batman movie released?|I don't know": 0.5,
-  "Literal|what year was batman launched?|1939": 0.4996249062265567,
-  "Literal|Hi. What is Batman's name?|Bruce Wayne": 0.4,
-  "Literal|When did the Batman comics first appear?|1939": 0.4996249062265567,
-  "Literal|Does Batman have real wings? |No": 0.5,
-  "Literal|what is the batmobile?|to patrol the streets of Gotham or as his general response to situations": 0.44442716030178114,
-  "Literal|What is the latest in the Batman Series of movies?|The Suicide Squad": 0.4996249062265567,
-  "Literal|Who was Batman's first villian?|Alfred Stryker": 0.4996249062265567,
-  "Literal|I filled out the test & clicked submit.  |Access to high tech equipment": 0.2857142857142857,
-  "Literal|when was batman made?|May, 1939": 0.33333333333333337,
-  "Literal|what year was batman release? |1939": 0.6666666666666666,
-  "Literal|When did Batman first appear in a comic book?|1939": 0.4996249062265567,
-  "Literal|who is the star in batman?|Batman": 0.4996249062265567,
-  "Literal|What is Batman?|protector": 0.33333333333333337,
-  "Literal|when was batman made|May, 1939": 0.4,
-  "Literal|Hi! Is Batman a real human? |Bruce Wayne": 0.4999996249999062,
-  "Literal|who played batman the most on tv?|Batman": 0.4,
-  "Literal|what year was the show premiere?|2005": 0.4,
-  "Literal|What is the plot of the show?|tough-love guidance of Chicago-based child therapist": 0.6666666666666666,
-  "Literal|what year was the show release ? |2005": 0.4996249062265567,
-  "Literal|what year was supernanny released? |2004": 0.4996249062265567,
-  "Literal|What is Supernanny?|British TV series": 0.4,
-  "Literal|What is Supernanny about?|The British Supernanny": 0.3333333333333333,
-  "Literal|What is supernanny?|British TV series": 0.4996249062265567,
-  "Literal|what genre is the tv series? |controversial": 0.4,
-  "Literal|Ok, Where does the Supernanny mainly live (country)?|UK": 0.6666666666666666,
-  "Literal|What is a Supernanny at all? Movie series? |British": 0.4,
-  "Literal|what year was the show released?|2005": 0.5,
-  "Literal|what type of t series is supernanny? |British": 0.0,
-  "Literal|what is supernanny? |tough-love": 0.4,
-  "Literal|what is Supernanny?|The first American Supernanny show": 0.4,
-  "Literal|what year did supernanny come out? |2004": 0.4999999999625,
-  "Literal|who is Supernanny?|Jo Frost": 0.5,
-  "Literal|What year did supernanny come out? |2004": 0.6666666666666666,
-  "Literal|Tell me about yourself, What is the use of this study?|I don't know": 0.4,
-  "Literal|What is the key to raising someone elses kids?|I don't know": 0.4,
-  "Literal|who is supernanny?|Jo Frost": 0.6666666666666666,
-  "Literal|who is the star of this serie?|Jo Frost": 0.5,
-  "Literal|who created the show? |I don't know": 0.4,
-  "Literal|Tell what year it was released? |2005": 0.4999996249999062,
-  "Literal|What year was it released? |2005": 0.4996249062265567,
-  "Literal|What does Supernanny do?|British TV series": 0.4,
-  "Literal|What is jujutsu Kaisen?|a manga": 0.4996249062265567,
-  "Literal|what is jujutsu kaisen?|expert at track and fiel": 0.2857632639067455,
-  "Literal|what is Jujutsu Kaisen and where is it most prevalent |a manga": 0.4996249062265567,
-  "Literal|who is this person?|Jujutsu Kaisen": 0.0,
-  "Literal|Hello|Jujutsu Kaisen": 0.2222222222222222,
-  "Literal|Who is the Jujusu Kaisen?|Gege Akutam": 0.0,
-  "Literal|What exactly is Jujutsu Kaisen?|a manga": 0.33333333333333337,
-  "Literal|What's Enter the Gungeon about?|ultimate treasure": 0.0,
-  "Literal|What year was this dinosaur release? |I don't know": 0.5,
-  "Literal|when was the existence of Dinosaur?|240 million years ago": 0.4996249062265567,
-  "Literal|what is your favorite dinosaur?|Pyroraptor": 0.4,
-  "Literal|What was the first type of Dinosaur?|Eoraptor": 0.4996249062265567,
-  "Literal|What is a dinosaur?|vertebrate animals": 0.4,
-  "Literal|Tell me about Dinosaur|1842": 0.2222222222222222,
-  "Literal|Hello. Hope you are great. When did dinosaurs live?|170 million years": 0.4,
-  "Literal|what year did the dinosaurs exist? |66 million years ago": 0.6666666666666666,
-  "Literal|How long were dinosaurs alive for?|170 million years": 0.4996249062265567,
-  "Literal|what is the biggest dinosaur known to science? |Brachiosaurus": 0.4,
-  "Literal|what period did the dinosaurs exist? |Cretaceous Period": 0.33333333333333337,
-  "Literal|What is the tallest dinosaur of all time?|Brachiosaurus": 0.6666666666666666,
-  "Literal|Where did the Dinosaurs go?|extinction": 1.0,
-  "Literal|How many horns did a triceratops have?|I don't know": 0.0,
-  "Literal|When did the dinosaurs reign?|240 million years ago": 0.4999999999625,
-  "Literal|What is the most recently discovered dinosaur?|I don't know": 0.0,
-  "Literal|What is the Dinosaur|a clade of vertebrate animals": 0.28571428571428575,
-  "Literal|When did dinosaurs first show up?|1677": 0.6666666666666666,
-  "Literal|waht are dinosaurs?|Dinosaurs": 0.0,
-  "Literal|Can you tell me what Dinosuars are?|a clade of vertebrate animals": 0.33333333333333337,
-  "Literal|When Dinosaur lived in the world?|170 million years": 0.4,
-  "Literal|tell me about Dinosaur|Dinosaurs ( Owen , 1842": 0.0,
-  "Literal|who is the king of the dinosaurs? |scientists will\n\nprobably never be certain of the largest and smallest dinosaurs": 0.8,
-  "Literal|what are dinosaurs?|vertebrate animals": 0.33333333333333337,
-  "Literal|how many dinosaurs are there?|1,844": 0.2222222222222222,
-  "Literal|Is Dinosaur a type of Drink? (if not then what is it?)|No": 0.0,
-  "Literal|when was Dinosaur present here on earth?|230 million years ago": 0.4999999999625,
-  "Literal|Hi. How long ago had the dinosaurs become extinct?|66 million years ago": 0.6666666666666666,
-  "Literal|which is the most dangerous dinosaur|Yes": 0.0,
-  "Literal|Whose the main character of the Karate KId?|Daniel LaRusso": 0.0,
-  "Literal|When was The Karate Kid released?|June 22, 1984": 0.0,
-  "Literal|when was game of throne first release?|17 April-19 June 2011": 0.399999759999904,
-  "Literal|What is Game of Thrones about?|the noble Houses of the Seven Kingdoms": 0.4,
-  "Literal|when was the last season released?|July 30, 2015": 0.33333333333333337,
-  "Literal|Is game of thrones a movie or show?|television series": 0.4999996249999062,
-  "Literal|Who is the author of game of thrones?|George R.R. Martin": 0.6666666666666666,
-  "Literal|what year was game of thrones released? |Yes": 0.0,
-  "Literal|What is Game of Thrones about?|the continent of Westeros": 0.4996249062265567,
-  "Literal|Was Tywin Lanaster a good guy or bad guy?|Tywin married his cousin Joanna Lannister": 0.24999978124997269,
-  "Literal|I know nothing about Game of Thrones; what's the general plot?|fantasy": 0.19981998199819984,
-  "Literal|What is Game of Thrones?|fantasy drama television series": 0.28571428571428575,
-  "Literal|Who is the main character in Game of Thrones?|Jon Arryn": 0.0,
-  "Literal|Is the Game of Thrones meant to be a fictional history of Earth?|the seasons can last for years at a time.": 0.0,
-  "Literal|who is the most famous character in the game of thrones?|Tyrion Lannister": 0.4,
-  "Literal|what year was game of thrones released? |2008": 0.0,
-  "Literal|How many books are in the Game of Thrones series?|It is based on the novel series A Song of Ice and Fire": 0.4,
-  "Literal|What is the premise of game of thrones? Is it based on real countries/places?|Yes": 0.0,
-  "Literal|What is the basis of the Game of Thrones seris?|novel series A Song of Ice and Fire": 0.8,
-  "Literal|What genre does the Game of Thrones fall under?|fantasy": 0.4,
-  "Literal|What is Game of Thrones armor made of?|Bronze": 0.4,
-  "Literal|How many books have been published in the Game of Thrones series so far?|Yes": 0.0,
-  "Literal|who is the star in this series?|Jon Snow": 0.4,
-  "Literal|who was the writer of Game of throne?|George R.R. Martin": 0.33333333333333337,
-  "Literal|who is the star in this show?|Robert I Baratheon": 0.6666666666666666,
-  "Literal|What is the basic story of Game of Thrones?|the continent of Westeros": 0.33333333333333337,
-  "Literal|who is the best character in game of thrones?|dragons": 0.5,
-  "Literal|What is the Game of Thrones?|an American fantasy drama television series": 0.3333333333333333,
-  "Literal|What is the most recent season of Game of Thrones?|May 19, 2019": 0.4996249062265567,
-  "Literal|who was House of Targaryen in Game of Thrones?|Great House of Westeros": 0.5,
-  "Literal|Who creat the game of thrones universe? |HBO": 0.4,
-  "Literal|Where was the Game of Thrones shot?|Northern Ireland and Morocco": 0.8,
-  "Literal|who is the protagonist of the show? |Sean Bean": 0.4996249062265567,
-  "Literal|when was the firs series released?|17 April-19 June 2011": 0.4,
-  "Literal|What is Game of thrones its real or not?|A Song of Ice and Fire": 0.6666666666666666,
-  "Pragmatic|Is the Batman comic similar to the movies?|his parents were killed by a small-time criminal named Joe Chill": 0.4,
-  "Pragmatic|what is batman's real name?|Bruce Wayne": 0.6666666666666666,
-  "Pragmatic|How old was batman when he first became batman?|Bruce": 0.0,
-  "Pragmatic|Does Batman Have super powers, like invisibility, or the ability to organically shoot a web from his hand?|intellect": 0.2222222222222222,
-  "Pragmatic|Who are Batman's biggest enemies?|Catwoman": 0.4,
-  "Pragmatic|What is Batmans real name?|CEO of Wayne Enterprises": 0.4999999999625,
-  "Pragmatic|Ok, Is batman a superhero?|Batman": 0.4999996249999062,
-  "Pragmatic|who is the hero in batman|Batman": 0.0,
-  "Pragmatic|When did Batman first appear?|Batman is a superhero co-created by artist Bob Kane": 0.4444444444444445,
-  "Pragmatic|Did Batman start with a book or a movie?|Detective Comics": 0.4996249062265567,
-  "Pragmatic|how old is batman?|Batman": 0.0,
-  "Pragmatic|how old is batman?|1939": 0.6666666666666666,
-  "Pragmatic|what is batman's real name? |his parents": 0.4996249062265567,
-  "Pragmatic|Is batman s a superhero? |he does not possess any superpowers": 0.33333333333333337,
-  "Pragmatic|what year was it release? |27": 0.0,
-  "Pragmatic|Hi. When was the first Batman comic released?|Bob Kane": 0.4996249062265567,
-  "Pragmatic|When was the original batman released?|May 1939": 0.33333333333333337,
-  "Pragmatic|Batman|Peak human physical condition": 0.2222222222222222,
-  "Pragmatic|Who is Batman?|CEO of Wayne Enterprises, Patriarch of the Bat Family": 0.6666666666666666,
-  "Pragmatic|Who is batman?|Batman": 0.0,
-  "Pragmatic|What was the first piece of media to feature Batman|DC Universe": 0.6666666666666666,
-  "Pragmatic|When the first Batman movie released?|1939": 0.4999996249999062,
-  "Pragmatic|what year was batman launched?|Bill Finger (writer) Bob Kane": 0.6666666666666666,
-  "Pragmatic|Hi. What is Batman's name?|Martha Kane": 0.4,
-  "Pragmatic|When did the Batman comics first appear?|soon after his introduction": 0.5,
-  "Pragmatic|Does Batman have real wings? |Bruce Wayne": 0.5,
-  "Pragmatic|what is the batmobile?|housed in the Batcave": 0.25006562253915476,
-  "Pragmatic|What is the latest in the Batman Series of movies?|Harley Quinn Release Date\nAugust 6, 2021": 0.3997599039615847,
-  "Pragmatic|Who was Batman's first villian?|Stryker": 0.5,
-  "Pragmatic|I filled out the test & clicked submit.  |Access": 0.0,
-  "Pragmatic|when was batman made?|1960s": 0.4996249062265567,
-  "Pragmatic|what year was batman release? |1989": 0.5,
-  "Pragmatic|When did Batman first appear in a comic book?|The Case of the Chemical Syndicate": 0.4,
-  "Pragmatic|who is the star in batman?|Bruce Wayne": 0.4996249062265567,
-  "Pragmatic|What is Batman?|a superhero": 0.33333333333333337,
-  "Pragmatic|when was batman made|Bill Finger (writer) Bob Kane (artist)": 0.6666666666666666,
-  "Pragmatic|Hi! Is Batman a real human? |CEO of Wayne Enterprises": 0.5,
-  "Pragmatic|who played batman the most on tv?|Batman": 0.4,
-  "Pragmatic|what year was the show premiere?|The show spanned 126": 0.4996249062265567,
-  "Pragmatic|What is the plot of the show?|tough-love guidance of Chicago-based child therapist": 0.6666666666666666,
-  "Pragmatic|what year was the show release ? |COVID-19 Pandemic": 0.0,
-  "Pragmatic|what year was supernanny released? |British": 0.4996249062265567,
-  "Pragmatic|What is Supernanny?|overseas versions": 0.2857632639067455,
-  "Pragmatic|What is Supernanny about?|Moonshine music": 0.0,
-  "Pragmatic|What is supernanny?|a British TV series": 0.6666666666666666,
-  "Pragmatic|what genre is the tv series? |British": 0.4,
-  "Pragmatic|Ok, Where does the Supernanny mainly live (country)?|British": 0.6666666666666666,
-  "Pragmatic|What is a Supernanny at all? Movie series? |the first American version of Supernanny shares the parent's ages": 0.3997599039615847,
-  "Pragmatic|what year was the show released?|2005": 0.5,
-  "Pragmatic|what type of t series is supernanny? |American": 0.4,
-  "Pragmatic|what is supernanny? |a British TV series": 0.4,
-  "Pragmatic|what is Supernanny?|child therapist Mike Ruggles": 0.0,
-  "Pragmatic|what year did supernanny come out? |2004": 0.4999999999625,
-  "Pragmatic|who is Supernanny?|nanny": 0.0,
-  "Pragmatic|What year did supernanny come out? |2005": 0.6666666666666666,
-  "Pragmatic|Tell me about yourself, What is the use of this study?|tough-love": 0.4,
-  "Pragmatic|What is the key to raising someone elses kids?|in front of the camera": 0.4,
-  "Pragmatic|who is supernanny?|Jo Frost": 0.6666666666666666,
-  "Pragmatic|who is the star of this serie?|Jo Frost": 0.5,
-  "Pragmatic|who created the show? |Supernanny": 0.33333333333333337,
-  "Pragmatic|Tell what year it was released? |Supernanny": 0.0,
-  "Pragmatic|What year was it released? |COVID-19 Pandemic": 0.5,
-  "Pragmatic|What does Supernanny do?|the UK and US English-language version have been broadcast in 47 different territories": 0.4,
-  "Pragmatic|What is jujutsu Kaisen?|The first chapter": 0.0,
-  "Pragmatic|what is jujutsu kaisen?|kicks": 0.2857632639067455,
-  "Pragmatic|what is Jujutsu Kaisen and where is it most prevalent |Weekly Shonen Jump": 0.4996249062265567,
-  "Pragmatic|who is this person?|Jujutsu Kaisen": 0.0,
-  "Pragmatic|Hello|Weekly Shonen Jump": 0.2857142857142857,
-  "Pragmatic|Who is the Jujusu Kaisen?|Gege Akutam": 0.0,
-  "Pragmatic|What exactly is Jujutsu Kaisen?|an sequel to the previous short series": 0.0,
-  "Pragmatic|What's Enter the Gungeon about?|Exit the Gungeon": 0.0,
-  "Pragmatic|What year was this dinosaur release? |230 million years ago": 0.4996249062265567,
-  "Pragmatic|when was the existence of Dinosaur?|66 million years ago": 0.4999996249999062,
-  "Pragmatic|what is your favorite dinosaur?|Mount Olympus": 0.4,
-  "Pragmatic|What was the first type of Dinosaur?|Eoraptor": 0.4996249062265567,
-  "Pragmatic|What is a dinosaur?|non-avian dinosaurs suffered a catastrophic extinction  birds": 0.6666666666666666,
-  "Pragmatic|Tell me about Dinosaur|Taxonomists": 0.2222222222222222,
-  "Pragmatic|Hello. Hope you are great. When did dinosaurs live?|66 million years ago": 0.33333333333333337,
-  "Pragmatic|what year did the dinosaurs exist? |19th century": 0.6666666666666666,
-  "Pragmatic|How long were dinosaurs alive for?|66 million years": 0.4996249062265567,
-  "Pragmatic|what is the biggest dinosaur known to science? |Humboldt Museum of Berlin": 0.33333333333333337,
-  "Pragmatic|what period did the dinosaurs exist? |Cretaceous period": 0.33333333333333337,
-  "Pragmatic|What is the tallest dinosaur of all time?|dinosaurs": 0.0,
-  "Pragmatic|Where did the Dinosaurs go?|land": 0.0,
-  "Pragmatic|How many horns did a triceratops have?|feathered dinosaurs": 0.4,
-  "Pragmatic|When did the dinosaurs reign?|66 million years ago": 0.5,
-  "Pragmatic|What is the most recently discovered dinosaur?|troodont": 0.5,
-  "Pragmatic|What is the Dinosaur|birds are the only remaining dinosaurs today": 0.33333333333333337,
-  "Pragmatic|When did dinosaurs first show up?|1858": 0.25,
-  "Pragmatic|waht are dinosaurs?|birds are the only remaining dinosaurs today": 0.24999978124997269,
-  "Pragmatic|Can you tell me what Dinosuars are?|Taxonomists state that birds are the only remaining dinosaurs": 0.33333333333333337,
-  "Pragmatic|When Dinosaur lived in the world?|240 million years ago": 0.4,
-  "Pragmatic|tell me about Dinosaur|fossilized dinosaur skeletons have become major attractions at museums around the world.": 0.3333333333333333,
-  "Pragmatic|who is the king of the dinosaurs? |scientists will\n\nprobably never be certain of the largest and smallest dinosaurs": 0.8,
-  "Pragmatic|what are dinosaurs?|non-avian": 0.4,
-  "Pragmatic|how many dinosaurs are there?|Some dinosaurs were bipeds": 0.24999978124997269,
-  "Pragmatic|Is Dinosaur a type of Drink? (if not then what is it?)|a clade of vertebrate animals": 0.3333333333333333,
-  "Pragmatic|when was Dinosaur present here on earth?|20 million years": 0.5,
-  "Pragmatic|Hi. How long ago had the dinosaurs become extinct?|65 million years ago": 0.6666666666666666,
-  "Pragmatic|which is the most dangerous dinosaur|Protoceratops": 0.0,
-  "Pragmatic|Whose the main character of the Karate KId?|17-year-old boy": 0.0,
-  "Pragmatic|When was The Karate Kid released?|December 16, 1983": 1.0,
-  "Pragmatic|when was game of throne first release?|17 April-19 June 2011": 0.399999759999904,
-  "Pragmatic|What is Game of Thrones about?|House Stark of Winterfell is a Great House of Westeros": 0.3997599039615847,
-  "Pragmatic|when was the last season released?|prequel": 0.0,
-  "Pragmatic|Is game of thrones a movie or show?|It is based on the novel series A Song of Ice and Fire": 0.4996249062265567,
-  "Pragmatic|Who is the author of game of thrones?|producer, creative consultant and scriptwriter": 0.0,
-  "Pragmatic|what year was game of thrones released? |2011": 0.6666666666666666,
-  "Pragmatic|What is Game of Thrones about?|both civil war and an external invasion threaten Westeros": 1.0,
-  "Pragmatic|Was Tywin Lanaster a good guy or bad guy?|Tywin despises his younger son": 0.24999978124997269,
-  "Pragmatic|I know nothing about Game of Thrones; what's the general plot?|fantasy": 0.19981998199819984,
-  "Pragmatic|What is Game of Thrones?|A Song of Ice and Fire": 0.2222222222222222,
-  "Pragmatic|Who is the main character in Game of Thrones?|Jon Arryn": 0.0,
-  "Pragmatic|Is the Game of Thrones meant to be a fictional history of Earth?|the seasons can last for years at a time.": 0.0,
-  "Pragmatic|who is the most famous character in the game of thrones?|Peter Hayden Dinklage": 0.4,
-  "Pragmatic|How many books are in the Game of Thrones series?|five": 0.4999996249999062,
-  "Pragmatic|What is the premise of game of thrones? Is it based on real countries/places?|both civil war and an external invasion threaten Westeros": 0.4999624990624766,
-  "Pragmatic|What is the basis of the Game of Thrones seris?|novel series A Song of Ice and Fire": 0.8,
-  "Pragmatic|What genre does the Game of Thrones fall under?|fantasy": 0.4,
-  "Pragmatic|What is Game of Thrones armor made of?|Iron Islands": 0.5,
-  "Pragmatic|How many books have been published in the Game of Thrones series so far?|five": 0.4996249062265567,
-  "Pragmatic|who is the star in this series?|Jon Snow": 0.4,
-  "Pragmatic|who was the writer of Game of throne?|producer, creative consultant and scriptwriter": 0.7499999999999999,
-  "Pragmatic|who is the star in this show?|Season 1": 0.4996249062265567,
-  "Pragmatic|What is the basic story of Game of Thrones?|The dragons died out": 0.0,
-  "Pragmatic|who is the best character in game of thrones?|f CGI creatures": 0.4996249062265567,
-  "Pragmatic|What is the Game of Thrones?|A Song of Ice and Fire": 0.4,
-  "Pragmatic|What is the most recent season of Game of Thrones?|May 12, 2019": 0.0,
-  "Pragmatic|who was House of Targaryen in Game of Thrones?|Robert's Rebellion": 0.4996249062265567,
-  "Pragmatic|Who creat the game of thrones universe? |George R.R. Martin": 0.2857632639067455,
-  "Pragmatic|Where was the Game of Thrones shot?|October and November 2009": 0.4996249062265567,
-  "Pragmatic|who is the protagonist of the show? |Tyrion Lannister": 0.0,
-  "Pragmatic|when was the firs series released?|HBO": 0.33333333333333337,
-  "Pragmatic|What is Game of thrones its real or not?|George R.R. Martin": 0.0,
-  "Retrieved|Is the Batman comic similar to the movies?|The most consistent": 0.0,
-  "Retrieved|what is batman's real name?|Barbara Gordon": 0.0,
-  "Retrieved|How old was batman when he first became batman?|23": 0.0,
-  "Retrieved|Does Batman Have super powers, like invisibility, or the ability to organically shoot a web from his hand?|does not possess any superpowers": 0.24999978124997269,
-  "Retrieved|Who are Batman's biggest enemies?|Lex Luthor": 0.0,
-  "Retrieved|What is Batmans real name?|Thomas Wayne": 0.0,
-  "Retrieved|Ok, Is batman a superhero?|Superman": 0.0,
-  "Retrieved|who is the hero in batman|Duke Thomas": 0.0,
-  "Retrieved|When did Batman first appear?|late 1960s": 0.0,
-  "Retrieved|Did Batman start with a book or a movie?|Film": 0.0,
-  "Retrieved|how old is batman?|26": 0.0,
-  "Retrieved|what is batman's real name? |Barbara Gordon": 0.0,
-  "Retrieved|Is batman s a superhero? |a bat suddenly flies through the window": 0.0,
-  "Retrieved|what year was it release? |2021": 0.0,
-  "Retrieved|Hi. When was the first Batman comic released?|January 12, 1966": 0.0,
-  "Retrieved|When was the original batman released?|June 23, 1989": 0.0,
-  "Retrieved|Batman|flashlights": 0.0,
-  "Retrieved|Who is Batman?|Sam Hamm\n       \n        Joe Quinones": 0.0,
-  "Retrieved|Who is batman?|Expert Marksman": 0.0,
-  "Retrieved|What was the first piece of media to feature Batman|The Cape and Cowl Conspiracy": 0.0,
-  "Retrieved|When the first Batman movie released?|October 4, 2019": 0.0,
-  "Retrieved|what year was batman launched?|1989": 0.0,
-  "Retrieved|Hi. What is Batman's name?|Thomas Wayne": 0.0,
-  "Retrieved|When did the Batman comics first appear?|1986": 0.0,
-  "Retrieved|Does Batman have real wings? |His batsuit is armored and is capable of flight": 0.0,
-  "Retrieved|what is the batmobile?|Bulletproof Bat-Shield": 0.0,
-  "Retrieved|What is the latest in the Batman Series of movies?|The New Batman Adventures": 0.0,
-  "Retrieved|Who was Batman's first villian?|Bruce Wayne": 0.0,
-  "Retrieved|I filled out the test & clicked submit.  |negative": 0.0,
-  "Retrieved|when was batman made?|March 18th, 2021": 0.0,
-  "Retrieved|what year was batman release? |August 2021": 0.0,
-  "Retrieved|When did Batman first appear in a comic book?|2000": 0.0,
-  "Retrieved|who is the star in batman?|Alicia Silverstone": 0.0,
-  "Retrieved|What is Batman?|Master Intimidator": 0.0,
-  "Retrieved|when was batman made|1995-2001": 0.0,
-  "Retrieved|Hi! Is Batman a real human? |masked vigilante": 0.0,
-  "Retrieved|who played batman the most on tv?|Bruce Wayne": 0.0,
-  "Retrieved|what year was the show premiere?|2009": 0.0,
-  "Retrieved|What is the plot of the show?|a spoof of the outdoors survival": 0.0,
-  "Retrieved|what year was the show release ? |1981": 0.0,
-  "Retrieved|what year was supernanny released? |2002": 0.0,
-  "Retrieved|What is Supernanny?|U.S., Lifetime": 0.3333333333333333,
-  "Retrieved|What is Supernanny about?|Family\n      \n\n\n\n\n\n\n    The Docherty Family": 0.3333333333333333,
-  "Retrieved|What is supernanny?|U.S., Lifetime": 0.3997599039615847,
-  "Retrieved|what genre is the tv series? |outdoors survival": 0.0,
-  "Retrieved|Ok, Where does the Supernanny mainly live (country)?|Houston, Texas": 0.0,
-  "Retrieved|What is a Supernanny at all? Movie series? |Lifetime": 0.0,
-  "Retrieved|what year was the show released?|2016": 0.0,
-  "Retrieved|what type of t series is supernanny? |British": 0.0,
-  "Retrieved|what is supernanny? |U.S., Lifetime": 0.0,
-  "Retrieved|what is Supernanny?|U.S., Lifetime": 0.3333333333333333,
-  "Retrieved|what year did supernanny come out? |2005": 0.0,
-  "Retrieved|who is Supernanny?|ty Family": 0.0,
-  "Retrieved|What year did supernanny come out? |2005": 0.6666666666666666,
-  "Retrieved|Tell me about yourself, What is the use of this study?|Give them a hug and kiss": 0.0,
-  "Retrieved|What is the key to raising someone elses kids?|Family quality time": 0.0,
-  "Retrieved|who is supernanny?|ty Family": 0.0,
-  "Retrieved|who is the star of this serie?|Michael Stephen Charles \"Mike\" Ruggles III": 0.0,
-  "Retrieved|who created the show? |Man Stroke Woman": 0.0,
-  "Retrieved|Tell what year it was released? |1982": 0.0,
-  "Retrieved|What year was it released? |1993": 0.0,
-  "Retrieved|What does Supernanny do?|Dispose of bottle": 0.0,
-  "Retrieved|What is jujutsu Kaisen?|a direct sequel to their previous work": 0.0,
-  "Retrieved|what is jujutsu kaisen?|0: Jujutsu High": 0.0,
-  "Retrieved|what is Jujutsu Kaisen and where is it most prevalent |0: Jujutsu High": 0.0,
-  "Retrieved|who is this person?|Steve Staley\n      \n\n\n\n\n\n\n    Shota Ito": 0.0,
-  "Retrieved|Hello|Tōkyō prison": 0.0,
-  "Retrieved|Who is the Jujusu Kaisen?|Gege Akutami": 0.0,
-  "Retrieved|What exactly is Jujutsu Kaisen?|0: Jujutsu High": 0.0,
-  "Retrieved|What's Enter the Gungeon about?|Routes": 0.0,
-  "Retrieved|What year was this dinosaur release? |2015": 0.0,
-  "Retrieved|when was the existence of Dinosaur?|millennia": 0.0,
-  "Retrieved|what is your favorite dinosaur?|Arlo": 0.0,
-  "Retrieved|What was the first type of Dinosaur?|Confuciusornis": 0.0,
-  "Retrieved|What is a dinosaur?|Eoraptor": 0.0,
-  "Retrieved|Tell me about Dinosaur|76 out of 100": 0.0,
-  "Retrieved|Hello. Hope you are great. When did dinosaurs live?|At the end of the\n   \n    Cretaceous\n   \n   Period": 0.4,
-  "Retrieved|what year did the dinosaurs exist? |2006": 0.0,
-  "Retrieved|How long were dinosaurs alive for?|millennia": 0.0,
-  "Retrieved|what is the biggest dinosaur known to science? |Spinosaurus": 0.0,
-  "Retrieved|what period did the dinosaurs exist? |Cenozoic Era": 0.0,
-  "Retrieved|What is the tallest dinosaur of all time?|Sauroposeidon": 0.0,
-  "Retrieved|Where did the Dinosaurs go?|directly beneath the body": 0.0,
-  "Retrieved|How many horns did a triceratops have?|one lost its horn": 0.0,
-  "Retrieved|When did the dinosaurs reign?|65 million years ago": 0.5,
-  "Retrieved|What is the most recently discovered dinosaur?|Spinosaurus": 0.0,
-  "Retrieved|What is the Dinosaur|Confuciusornis": 0.33333333333333337,
-  "Retrieved|When did dinosaurs first show up?|2009": 0.0,
-  "Retrieved|waht are dinosaurs?|Crikey! It's the Irwins, and Ultimate Zoo": 0.0,
-  "Retrieved|Can you tell me what Dinosuars are?|Mythical Mix-Up\n   \n\n    Beast": 0.0,
-  "Retrieved|When Dinosaur lived in the world?|Megalosaurus\n    \n    lived in Europe": 0.0,
-  "Retrieved|tell me about Dinosaur|they have captured people's imagination": 0.0,
-  "Retrieved|who is the king of the dinosaurs? |Ankylosaurus\n    \n\n\n\n\n\n     Deinonychus": 0.0,
-  "Retrieved|what are dinosaurs?|land animals": 0.33333333333333337,
-  "Retrieved|how many dinosaurs are there?|none": 0.0,
-  "Retrieved|Is Dinosaur a type of Drink? (if not then what is it?)|Warm-bloodedness": 0.0,
-  "Retrieved|when was Dinosaur present here on earth?|Antarctica": 0.0,
-  "Retrieved|Hi. How long ago had the dinosaurs become extinct?|over 30 years": 0.0,
-  "Retrieved|which is the most dangerous dinosaur|quadrupedal herbivores": 0.0,
-  "Retrieved|Whose the main character of the Karate KId?|Pat E. Johnson": 0.0,
-  "Retrieved|When was The Karate Kid released?|1984": 0.0,
-  "Retrieved|when was game of throne first release?|November 24,1964": 0.0,
-  "Retrieved|What is Game of Thrones about?|The\n    \n     Game of Thrones\n    \n    TV series already surpassed": 0.0,
-  "Retrieved|when was the last season released?|March 31, 2013": 0.0,
-  "Retrieved|Is game of thrones a movie or show?|movie adaption": 0.0,
-  "Retrieved|Who is the author of game of thrones?|George R.R. Martin": 0.6666666666666666,
-  "Retrieved|what year was game of thrones released? |2010": 0.0,
-  "Retrieved|Was Tywin Lanaster a good guy or bad guy?|evil": 0.24999978124997269,
-  "Retrieved|I know nothing about Game of Thrones; what's the general plot?|war for Westeros\n         \n         Great War\n        \n\n\n\n\n\n     War of the Five Kings": 0.18176855895196506,
-  "Retrieved|What is Game of Thrones?|A Clash of Kings\n    \n    &\n    \n     A Storm of Swords": 0.0,
-  "Retrieved|Who is the main character in Game of Thrones?|David Benioff": 0.0,
-  "Retrieved|Is the Game of Thrones meant to be a fictional history of Earth?|there is no more elaborate name": 0.0,
-  "Retrieved|who is the most famous character in the game of thrones?|Oberyn Martell": 0.0,
-  "Retrieved|How many books are in the Game of Thrones series?|one": 0.0,
-  "Retrieved|What is the premise of game of thrones? Is it based on real countries/places?|cyvasse": 0.0,
-  "Retrieved|What is the basis of the Game of Thrones seris?|Kingsguard\n    \n\n\n      Season": 0.0,
-  "Retrieved|What genre does the Game of Thrones fall under?|poetic": 0.0,
-  "Retrieved|What is Game of Thrones armor made of?|stylized interlocking gold hands": 0.0,
-  "Retrieved|How many books have been published in the Game of Thrones series so far?|four": 0.0,
-  "Retrieved|who is the star in this series?|Charles Dance": 0.0,
-  "Retrieved|who was the writer of Game of throne?|George R.R. Martin": 0.33333333333333337,
-  "Retrieved|who is the star in this show?|Theon Greyjoy": 0.0,
-  "Retrieved|What is the basic story of Game of Thrones?|Samwell Tarly": 0.0,
-  "Retrieved|who is the best character in game of thrones?|enyra": 0.0,
-  "Retrieved|What is the Game of Thrones?|A Clash of Kings": 0.0,
-  "Retrieved|What is the most recent season of Game of Thrones?|Seasons 1-4": 0.0,
-  "Retrieved|who was House of Targaryen in Game of Thrones?|House Greyjoy": 0.0,
-  "Retrieved|Who creat the game of thrones universe? |Aegon II Targaryen": 0.0,
-  "Retrieved|Where was the Game of Thrones shot?|Malta": 0.0,
-  "Retrieved|who is the protagonist of the show? |David J. Peterson": 0.0,
-  "Retrieved|when was the firs series released?|1986": 0.0,
-  "Retrieved|What is Game of thrones its real or not?|The\n   \n    Iron Throne": 0.0
+  "Literal|Is the Batman comic similar to the movies?|Gotham City socialites": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Literal|what is batman's real name?|Bruce Wayne": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Literal|How old was batman when he first became batman?|I don't know": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|Does Batman Have super powers, like invisibility, or the ability to organically shoot a web from his hand?|No": [
+    1.0,
+    0.125,
+    0.2222222222222222
+  ],
+  "Literal|Who are Batman's biggest enemies?|Catwoman": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|What is Batmans real name?|Bruce Wayne": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Literal|Ok, Is batman a superhero?|Yes": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Literal|who is the hero in batman|Bruce Wayne": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Literal|When did Batman first appear?|May, 1939": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|Did Batman start with a book or a movie?|Detective Comics": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|how old is batman?|May, 1939": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|how old is batman?|1939": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Literal|what is batman's real name? |Bruce Wayne": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|Is batman s a superhero? |Batman": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Literal|what year was it release? |1939": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Literal|Hi. When was the first Batman comic released?|1939": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|When was the original batman released?|May 1939": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Literal|Batman|Batman": [
+    1.0,
+    0.125,
+    0.2222222222222222
+  ],
+  "Literal|Who is Batman?|a superhero": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|Who is batman?|Patriarch of the Bat Family": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Literal|What was the first piece of media to feature Batman|DC Comics": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Literal|When the first Batman movie released?|I don't know": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Literal|what year was batman launched?|1939": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|Hi. What is Batman's name?|Bruce Wayne": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|When did the Batman comics first appear?|1939": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|Does Batman have real wings? |No": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Literal|what is the batmobile?|to patrol the streets of Gotham or as his general response to situations": [
+    1.0,
+    0.2857,
+    0.44442716030178114
+  ],
+  "Literal|What is the latest in the Batman Series of movies?|The Suicide Squad": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|Who was Batman's first villian?|Alfred Stryker": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|I filled out the test & clicked submit.  |Access to high tech equipment": [
+    1.0,
+    0.16666666666666666,
+    0.2857142857142857
+  ],
+  "Literal|when was batman made?|May, 1939": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Literal|what year was batman release? |1939": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Literal|When did Batman first appear in a comic book?|1939": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|who is the star in batman?|Batman": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|What is Batman?|protector": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Literal|when was batman made|May, 1939": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|Hi! Is Batman a real human? |Bruce Wayne": [
+    1.0,
+    0.333333,
+    0.4999996249999062
+  ],
+  "Literal|who played batman the most on tv?|Batman": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|what year was the show premiere?|2005": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|What is the plot of the show?|tough-love guidance of Chicago-based child therapist": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Literal|what year was the show release ? |2005": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|what year was supernanny released? |2004": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|What is Supernanny?|British TV series": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|What is Supernanny about?|The British Supernanny": [
+    0.5,
+    0.25,
+    0.3333333333333333
+  ],
+  "Literal|What is supernanny?|British TV series": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|what genre is the tv series? |controversial": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|Ok, Where does the Supernanny mainly live (country)?|UK": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Literal|What is a Supernanny at all? Movie series? |British": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|what year was the show released?|2005": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Literal|what type of t series is supernanny? |British": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Literal|what is supernanny? |tough-love": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|what is Supernanny?|The first American Supernanny show": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|what year did supernanny come out? |2004": [
+    1.0,
+    0.3333333333,
+    0.4999999999625
+  ],
+  "Literal|who is Supernanny?|Jo Frost": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Literal|What year did supernanny come out? |2004": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Literal|Tell me about yourself, What is the use of this study?|I don't know": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|What is the key to raising someone elses kids?|I don't know": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|who is supernanny?|Jo Frost": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Literal|who is the star of this serie?|Jo Frost": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Literal|who created the show? |I don't know": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|Tell what year it was released? |2005": [
+    1.0,
+    0.333333,
+    0.4999996249999062
+  ],
+  "Literal|What year was it released? |2005": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|What does Supernanny do?|British TV series": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|What is jujutsu Kaisen?|a manga": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|what is jujutsu kaisen?|expert at track and fiel": [
+    1.0,
+    0.1667,
+    0.2857632639067455
+  ],
+  "Literal|what is Jujutsu Kaisen and where is it most prevalent |a manga": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|who is this person?|Jujutsu Kaisen": [
+    1.0,
+    0.0,
+    0.0
+  ],
+  "Literal|Hello|Jujutsu Kaisen": [
+    1.0,
+    0.125,
+    0.2222222222222222
+  ],
+  "Literal|Who is the Jujusu Kaisen?|Gege Akutam": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Literal|What exactly is Jujutsu Kaisen?|a manga": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Literal|What's Enter the Gungeon about?|ultimate treasure": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Literal|What year was this dinosaur release? |I don't know": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Literal|when was the existence of Dinosaur?|240 million years ago": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|what is your favorite dinosaur?|Pyroraptor": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|What was the first type of Dinosaur?|Eoraptor": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|What is a dinosaur?|vertebrate animals": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|Tell me about Dinosaur|1842": [
+    1.0,
+    0.125,
+    0.2222222222222222
+  ],
+  "Literal|Hello. Hope you are great. When did dinosaurs live?|170 million years": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|what year did the dinosaurs exist? |66 million years ago": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Literal|How long were dinosaurs alive for?|170 million years": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|what is the biggest dinosaur known to science? |Brachiosaurus": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|what period did the dinosaurs exist? |Cretaceous Period": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Literal|What is the tallest dinosaur of all time?|Brachiosaurus": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Literal|Where did the Dinosaurs go?|extinction": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "Literal|How many horns did a triceratops have?|I don't know": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Literal|When did the dinosaurs reign?|240 million years ago": [
+    1.0,
+    0.3333333333,
+    0.4999999999625
+  ],
+  "Literal|What is the most recently discovered dinosaur?|I don't know": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Literal|What is the Dinosaur|a clade of vertebrate animals": [
+    0.5,
+    0.2,
+    0.28571428571428575
+  ],
+  "Literal|When did dinosaurs first show up?|1677": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Literal|waht are dinosaurs?|Dinosaurs": [
+    1.0,
+    0.0,
+    0.0
+  ],
+  "Literal|Can you tell me what Dinosuars are?|a clade of vertebrate animals": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Literal|When Dinosaur lived in the world?|170 million years": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|tell me about Dinosaur|Dinosaurs ( Owen , 1842": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Literal|who is the king of the dinosaurs? |scientists will\n\nprobably never be certain of the largest and smallest dinosaurs": [
+    1.0,
+    0.6666666666666666,
+    0.8
+  ],
+  "Literal|what are dinosaurs?|vertebrate animals": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Literal|how many dinosaurs are there?|1,844": [
+    1.0,
+    0.125,
+    0.2222222222222222
+  ],
+  "Literal|Is Dinosaur a type of Drink? (if not then what is it?)|No": [
+    1.0,
+    0.0,
+    0.0
+  ],
+  "Literal|when was Dinosaur present here on earth?|230 million years ago": [
+    1.0,
+    0.3333333333,
+    0.4999999999625
+  ],
+  "Literal|Hi. How long ago had the dinosaurs become extinct?|66 million years ago": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Literal|which is the most dangerous dinosaur|Yes": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Literal|Whose the main character of the Karate KId?|Daniel LaRusso": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Literal|When was The Karate Kid released?|June 22, 1984": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Literal|when was game of throne first release?|17 April-19 June 2011": [
+    0.5,
+    0.333333,
+    0.399999759999904
+  ],
+  "Literal|What is Game of Thrones about?|the noble Houses of the Seven Kingdoms": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|when was the last season released?|July 30, 2015": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Literal|Is game of thrones a movie or show?|television series": [
+    1.0,
+    0.333333,
+    0.4999996249999062
+  ],
+  "Literal|Who is the author of game of thrones?|George R.R. Martin": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Literal|what year was game of thrones released? |Yes": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Literal|What is Game of Thrones about?|the continent of Westeros": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|Was Tywin Lanaster a good guy or bad guy?|Tywin married his cousin Joanna Lannister": [
+    1.0,
+    0.142857,
+    0.24999978124997269
+  ],
+  "Literal|I know nothing about Game of Thrones; what's the general plot?|fantasy": [
+    1.0,
+    0.111,
+    0.19981998199819984
+  ],
+  "Literal|What is Game of Thrones?|fantasy drama television series": [
+    0.5,
+    0.2,
+    0.28571428571428575
+  ],
+  "Literal|Who is the main character in Game of Thrones?|Jon Arryn": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Literal|Is the Game of Thrones meant to be a fictional history of Earth?|the seasons can last for years at a time.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Literal|who is the most famous character in the game of thrones?|Tyrion Lannister": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|what year was game of thrones released? |2008": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Literal|How many books are in the Game of Thrones series?|It is based on the novel series A Song of Ice and Fire": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|What is the premise of game of thrones? Is it based on real countries/places?|Yes": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Literal|What is the basis of the Game of Thrones seris?|novel series A Song of Ice and Fire": [
+    1.0,
+    0.6666666666666666,
+    0.8
+  ],
+  "Literal|What genre does the Game of Thrones fall under?|fantasy": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|What is Game of Thrones armor made of?|Bronze": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|How many books have been published in the Game of Thrones series so far?|Yes": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Literal|who is the star in this series?|Jon Snow": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|who was the writer of Game of throne?|George R.R. Martin": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Literal|who is the star in this show?|Robert I Baratheon": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Literal|What is the basic story of Game of Thrones?|the continent of Westeros": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Literal|who is the best character in game of thrones?|dragons": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Literal|What is the Game of Thrones?|an American fantasy drama television series": [
+    0.3333333333333333,
+    0.3333333333333333,
+    0.3333333333333333
+  ],
+  "Literal|What is the most recent season of Game of Thrones?|May 19, 2019": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|who was House of Targaryen in Game of Thrones?|Great House of Westeros": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Literal|Who creat the game of thrones universe? |HBO": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|Where was the Game of Thrones shot?|Northern Ireland and Morocco": [
+    1.0,
+    0.6666666666666666,
+    0.8
+  ],
+  "Literal|who is the protagonist of the show? |Sean Bean": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Literal|when was the firs series released?|17 April-19 June 2011": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Literal|What is Game of thrones its real or not?|A Song of Ice and Fire": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Pragmatic|Is the Batman comic similar to the movies?|his parents were killed by a small-time criminal named Joe Chill": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Pragmatic|what is batman's real name?|Bruce Wayne": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Pragmatic|How old was batman when he first became batman?|Bruce": [
+    1.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|Does Batman Have super powers, like invisibility, or the ability to organically shoot a web from his hand?|intellect": [
+    1.0,
+    0.125,
+    0.2222222222222222
+  ],
+  "Pragmatic|Who are Batman's biggest enemies?|Catwoman": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Pragmatic|What is Batmans real name?|CEO of Wayne Enterprises": [
+    1.0,
+    0.3333333333,
+    0.4999999999625
+  ],
+  "Pragmatic|Ok, Is batman a superhero?|Batman": [
+    1.0,
+    0.333333,
+    0.4999996249999062
+  ],
+  "Pragmatic|who is the hero in batman|Batman": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|When did Batman first appear?|Batman is a superhero co-created by artist Bob Kane": [
+    0.5,
+    0.4,
+    0.4444444444444445
+  ],
+  "Pragmatic|Did Batman start with a book or a movie?|Detective Comics": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Pragmatic|how old is batman?|Batman": [
+    1.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|how old is batman?|1939": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Pragmatic|what is batman's real name? |his parents": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Pragmatic|Is batman s a superhero? |he does not possess any superpowers": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Pragmatic|what year was it release? |27": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|Hi. When was the first Batman comic released?|Bob Kane": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Pragmatic|When was the original batman released?|May 1939": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Pragmatic|Batman|Peak human physical condition": [
+    1.0,
+    0.125,
+    0.2222222222222222
+  ],
+  "Pragmatic|Who is Batman?|CEO of Wayne Enterprises, Patriarch of the Bat Family": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Pragmatic|Who is batman?|Batman": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|What was the first piece of media to feature Batman|DC Universe": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Pragmatic|When the first Batman movie released?|1939": [
+    1.0,
+    0.333333,
+    0.4999996249999062
+  ],
+  "Pragmatic|what year was batman launched?|Bill Finger (writer) Bob Kane": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Pragmatic|Hi. What is Batman's name?|Martha Kane": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Pragmatic|When did the Batman comics first appear?|soon after his introduction": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Pragmatic|Does Batman have real wings? |Bruce Wayne": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Pragmatic|what is the batmobile?|housed in the Batcave": [
+    1.0,
+    0.1429,
+    0.25006562253915476
+  ],
+  "Pragmatic|What is the latest in the Batman Series of movies?|Harley Quinn Release Date\nAugust 6, 2021": [
+    0.5,
+    0.333,
+    0.3997599039615847
+  ],
+  "Pragmatic|Who was Batman's first villian?|Stryker": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Pragmatic|I filled out the test & clicked submit.  |Access": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|when was batman made?|1960s": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Pragmatic|what year was batman release? |1989": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Pragmatic|When did Batman first appear in a comic book?|The Case of the Chemical Syndicate": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Pragmatic|who is the star in batman?|Bruce Wayne": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Pragmatic|What is Batman?|a superhero": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Pragmatic|when was batman made|Bill Finger (writer) Bob Kane (artist)": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Pragmatic|Hi! Is Batman a real human? |CEO of Wayne Enterprises": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Pragmatic|who played batman the most on tv?|Batman": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Pragmatic|what year was the show premiere?|The show spanned 126": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Pragmatic|What is the plot of the show?|tough-love guidance of Chicago-based child therapist": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Pragmatic|what year was the show release ? |COVID-19 Pandemic": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|what year was supernanny released? |British": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Pragmatic|What is Supernanny?|overseas versions": [
+    1.0,
+    0.1667,
+    0.2857632639067455
+  ],
+  "Pragmatic|What is Supernanny about?|Moonshine music": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|What is supernanny?|a British TV series": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Pragmatic|what genre is the tv series? |British": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Pragmatic|Ok, Where does the Supernanny mainly live (country)?|British": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Pragmatic|What is a Supernanny at all? Movie series? |the first American version of Supernanny shares the parent's ages": [
+    0.5,
+    0.333,
+    0.3997599039615847
+  ],
+  "Pragmatic|what year was the show released?|2005": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Pragmatic|what type of t series is supernanny? |American": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Pragmatic|what is supernanny? |a British TV series": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Pragmatic|what is Supernanny?|child therapist Mike Ruggles": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|what year did supernanny come out? |2004": [
+    1.0,
+    0.3333333333,
+    0.4999999999625
+  ],
+  "Pragmatic|who is Supernanny?|nanny": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|What year did supernanny come out? |2005": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Pragmatic|Tell me about yourself, What is the use of this study?|tough-love": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Pragmatic|What is the key to raising someone elses kids?|in front of the camera": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Pragmatic|who is supernanny?|Jo Frost": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Pragmatic|who is the star of this serie?|Jo Frost": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Pragmatic|who created the show? |Supernanny": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Pragmatic|Tell what year it was released? |Supernanny": [
+    1.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|What year was it released? |COVID-19 Pandemic": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Pragmatic|What does Supernanny do?|the UK and US English-language version have been broadcast in 47 different territories": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Pragmatic|What is jujutsu Kaisen?|The first chapter": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|what is jujutsu kaisen?|kicks": [
+    1.0,
+    0.1667,
+    0.2857632639067455
+  ],
+  "Pragmatic|what is Jujutsu Kaisen and where is it most prevalent |Weekly Shonen Jump": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Pragmatic|who is this person?|Jujutsu Kaisen": [
+    1.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|Hello|Weekly Shonen Jump": [
+    1.0,
+    0.16666666666666666,
+    0.2857142857142857
+  ],
+  "Pragmatic|Who is the Jujusu Kaisen?|Gege Akutam": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|What exactly is Jujutsu Kaisen?|an sequel to the previous short series": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|What's Enter the Gungeon about?|Exit the Gungeon": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|What year was this dinosaur release? |230 million years ago": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Pragmatic|when was the existence of Dinosaur?|66 million years ago": [
+    1.0,
+    0.333333,
+    0.4999996249999062
+  ],
+  "Pragmatic|what is your favorite dinosaur?|Mount Olympus": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Pragmatic|What was the first type of Dinosaur?|Eoraptor": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Pragmatic|What is a dinosaur?|non-avian dinosaurs suffered a catastrophic extinction  birds": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Pragmatic|Tell me about Dinosaur|Taxonomists": [
+    1.0,
+    0.125,
+    0.2222222222222222
+  ],
+  "Pragmatic|Hello. Hope you are great. When did dinosaurs live?|66 million years ago": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Pragmatic|what year did the dinosaurs exist? |19th century": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Pragmatic|How long were dinosaurs alive for?|66 million years": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Pragmatic|what is the biggest dinosaur known to science? |Humboldt Museum of Berlin": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Pragmatic|what period did the dinosaurs exist? |Cretaceous period": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Pragmatic|What is the tallest dinosaur of all time?|dinosaurs": [
+    1.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|Where did the Dinosaurs go?|land": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|How many horns did a triceratops have?|feathered dinosaurs": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Pragmatic|When did the dinosaurs reign?|66 million years ago": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Pragmatic|What is the most recently discovered dinosaur?|troodont": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Pragmatic|What is the Dinosaur|birds are the only remaining dinosaurs today": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Pragmatic|When did dinosaurs first show up?|1858": [
+    1.0,
+    0.14285714285714285,
+    0.25
+  ],
+  "Pragmatic|waht are dinosaurs?|birds are the only remaining dinosaurs today": [
+    1.0,
+    0.142857,
+    0.24999978124997269
+  ],
+  "Pragmatic|Can you tell me what Dinosuars are?|Taxonomists state that birds are the only remaining dinosaurs": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Pragmatic|When Dinosaur lived in the world?|240 million years ago": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Pragmatic|tell me about Dinosaur|fossilized dinosaur skeletons have become major attractions at museums around the world.": [
+    0.5,
+    0.25,
+    0.3333333333333333
+  ],
+  "Pragmatic|who is the king of the dinosaurs? |scientists will\n\nprobably never be certain of the largest and smallest dinosaurs": [
+    1.0,
+    0.6666666666666666,
+    0.8
+  ],
+  "Pragmatic|what are dinosaurs?|non-avian": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Pragmatic|how many dinosaurs are there?|Some dinosaurs were bipeds": [
+    1.0,
+    0.142857,
+    0.24999978124997269
+  ],
+  "Pragmatic|Is Dinosaur a type of Drink? (if not then what is it?)|a clade of vertebrate animals": [
+    0.5,
+    0.25,
+    0.3333333333333333
+  ],
+  "Pragmatic|when was Dinosaur present here on earth?|20 million years": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Pragmatic|Hi. How long ago had the dinosaurs become extinct?|65 million years ago": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Pragmatic|which is the most dangerous dinosaur|Protoceratops": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|Whose the main character of the Karate KId?|17-year-old boy": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|When was The Karate Kid released?|December 16, 1983": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "Pragmatic|when was game of throne first release?|17 April-19 June 2011": [
+    0.5,
+    0.333333,
+    0.399999759999904
+  ],
+  "Pragmatic|What is Game of Thrones about?|House Stark of Winterfell is a Great House of Westeros": [
+    0.5,
+    0.333,
+    0.3997599039615847
+  ],
+  "Pragmatic|when was the last season released?|prequel": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|Is game of thrones a movie or show?|It is based on the novel series A Song of Ice and Fire": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Pragmatic|Who is the author of game of thrones?|producer, creative consultant and scriptwriter": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|what year was game of thrones released? |2011": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Pragmatic|What is Game of Thrones about?|both civil war and an external invasion threaten Westeros": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "Pragmatic|Was Tywin Lanaster a good guy or bad guy?|Tywin despises his younger son": [
+    1.0,
+    0.142857,
+    0.24999978124997269
+  ],
+  "Pragmatic|I know nothing about Game of Thrones; what's the general plot?|fantasy": [
+    1.0,
+    0.111,
+    0.19981998199819984
+  ],
+  "Pragmatic|What is Game of Thrones?|A Song of Ice and Fire": [
+    1.0,
+    0.125,
+    0.2222222222222222
+  ],
+  "Pragmatic|Who is the main character in Game of Thrones?|Jon Arryn": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|Is the Game of Thrones meant to be a fictional history of Earth?|the seasons can last for years at a time.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|who is the most famous character in the game of thrones?|Peter Hayden Dinklage": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Pragmatic|How many books are in the Game of Thrones series?|five": [
+    1.0,
+    0.333333,
+    0.4999996249999062
+  ],
+  "Pragmatic|What is the premise of game of thrones? Is it based on real countries/places?|both civil war and an external invasion threaten Westeros": [
+    1.0,
+    0.3333,
+    0.4999624990624766
+  ],
+  "Pragmatic|What is the basis of the Game of Thrones seris?|novel series A Song of Ice and Fire": [
+    1.0,
+    0.6666666666666666,
+    0.8
+  ],
+  "Pragmatic|What genre does the Game of Thrones fall under?|fantasy": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Pragmatic|What is Game of Thrones armor made of?|Iron Islands": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Pragmatic|How many books have been published in the Game of Thrones series so far?|five": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Pragmatic|who is the star in this series?|Jon Snow": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Pragmatic|who was the writer of Game of throne?|producer, creative consultant and scriptwriter": [
+    1.0,
+    0.6,
+    0.7499999999999999
+  ],
+  "Pragmatic|who is the star in this show?|Season 1": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Pragmatic|What is the basic story of Game of Thrones?|The dragons died out": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|who is the best character in game of thrones?|f CGI creatures": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Pragmatic|What is the Game of Thrones?|A Song of Ice and Fire": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Pragmatic|What is the most recent season of Game of Thrones?|May 12, 2019": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|who was House of Targaryen in Game of Thrones?|Robert's Rebellion": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Pragmatic|Who creat the game of thrones universe? |George R.R. Martin": [
+    1.0,
+    0.1667,
+    0.2857632639067455
+  ],
+  "Pragmatic|Where was the Game of Thrones shot?|October and November 2009": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "Pragmatic|who is the protagonist of the show? |Tyrion Lannister": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pragmatic|when was the firs series released?|HBO": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Pragmatic|What is Game of thrones its real or not?|George R.R. Martin": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Is the Batman comic similar to the movies?|The most consistent": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|what is batman's real name?|Barbara Gordon": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|How old was batman when he first became batman?|23": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Does Batman Have super powers, like invisibility, or the ability to organically shoot a web from his hand?|does not possess any superpowers": [
+    1.0,
+    0.142857,
+    0.24999978124997269
+  ],
+  "Retrieved|Who are Batman's biggest enemies?|Lex Luthor": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What is Batmans real name?|Thomas Wayne": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Ok, Is batman a superhero?|Superman": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|who is the hero in batman|Duke Thomas": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|When did Batman first appear?|late 1960s": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Did Batman start with a book or a movie?|Film": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|how old is batman?|26": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|what is batman's real name? |Barbara Gordon": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Is batman s a superhero? |a bat suddenly flies through the window": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|what year was it release? |2021": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Hi. When was the first Batman comic released?|January 12, 1966": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|When was the original batman released?|June 23, 1989": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Batman|flashlights": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Who is Batman?|Sam Hamm\n       \n        Joe Quinones": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Who is batman?|Expert Marksman": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What was the first piece of media to feature Batman|The Cape and Cowl Conspiracy": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|When the first Batman movie released?|October 4, 2019": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|what year was batman launched?|1989": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Hi. What is Batman's name?|Thomas Wayne": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|When did the Batman comics first appear?|1986": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Does Batman have real wings? |His batsuit is armored and is capable of flight": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|what is the batmobile?|Bulletproof Bat-Shield": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What is the latest in the Batman Series of movies?|The New Batman Adventures": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Who was Batman's first villian?|Bruce Wayne": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|I filled out the test & clicked submit.  |negative": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|when was batman made?|March 18th, 2021": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|what year was batman release? |August 2021": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|When did Batman first appear in a comic book?|2000": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|who is the star in batman?|Alicia Silverstone": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What is Batman?|Master Intimidator": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|when was batman made|1995-2001": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Hi! Is Batman a real human? |masked vigilante": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|who played batman the most on tv?|Bruce Wayne": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|what year was the show premiere?|2009": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What is the plot of the show?|a spoof of the outdoors survival": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|what year was the show release ? |1981": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|what year was supernanny released? |2002": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What is Supernanny?|U.S., Lifetime": [
+    0.5,
+    0.25,
+    0.3333333333333333
+  ],
+  "Retrieved|What is Supernanny about?|Family\n      \n\n\n\n\n\n\n    The Docherty Family": [
+    0.5,
+    0.25,
+    0.3333333333333333
+  ],
+  "Retrieved|What is supernanny?|U.S., Lifetime": [
+    0.5,
+    0.333,
+    0.3997599039615847
+  ],
+  "Retrieved|what genre is the tv series? |outdoors survival": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Ok, Where does the Supernanny mainly live (country)?|Houston, Texas": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What is a Supernanny at all? Movie series? |Lifetime": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|what year was the show released?|2016": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|what type of t series is supernanny? |British": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|what is supernanny? |U.S., Lifetime": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|what is Supernanny?|U.S., Lifetime": [
+    0.5,
+    0.25,
+    0.3333333333333333
+  ],
+  "Retrieved|what year did supernanny come out? |2005": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|who is Supernanny?|ty Family": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What year did supernanny come out? |2005": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Retrieved|Tell me about yourself, What is the use of this study?|Give them a hug and kiss": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What is the key to raising someone elses kids?|Family quality time": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|who is supernanny?|ty Family": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|who is the star of this serie?|Michael Stephen Charles \"Mike\" Ruggles III": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|who created the show? |Man Stroke Woman": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Tell what year it was released? |1982": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What year was it released? |1993": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What does Supernanny do?|Dispose of bottle": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What is jujutsu Kaisen?|a direct sequel to their previous work": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|what is jujutsu kaisen?|0: Jujutsu High": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|what is Jujutsu Kaisen and where is it most prevalent |0: Jujutsu High": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|who is this person?|Steve Staley\n      \n\n\n\n\n\n\n    Shota Ito": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Hello|Tōkyō prison": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Who is the Jujusu Kaisen?|Gege Akutami": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What exactly is Jujutsu Kaisen?|0: Jujutsu High": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What's Enter the Gungeon about?|Routes": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What year was this dinosaur release? |2015": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|when was the existence of Dinosaur?|millennia": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|what is your favorite dinosaur?|Arlo": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What was the first type of Dinosaur?|Confuciusornis": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What is a dinosaur?|Eoraptor": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Tell me about Dinosaur|76 out of 100": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Hello. Hope you are great. When did dinosaurs live?|At the end of the\n   \n    Cretaceous\n   \n   Period": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "Retrieved|what year did the dinosaurs exist? |2006": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|How long were dinosaurs alive for?|millennia": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|what is the biggest dinosaur known to science? |Spinosaurus": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|what period did the dinosaurs exist? |Cenozoic Era": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What is the tallest dinosaur of all time?|Sauroposeidon": [
+    0.0,
+    0.5,
+    0.0
+  ],
+  "Retrieved|Where did the Dinosaurs go?|directly beneath the body": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|How many horns did a triceratops have?|one lost its horn": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|When did the dinosaurs reign?|65 million years ago": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "Retrieved|What is the most recently discovered dinosaur?|Spinosaurus": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What is the Dinosaur|Confuciusornis": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Retrieved|When did dinosaurs first show up?|2009": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|waht are dinosaurs?|Crikey! It's the Irwins, and Ultimate Zoo": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Can you tell me what Dinosuars are?|Mythical Mix-Up\n   \n\n    Beast": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|When Dinosaur lived in the world?|Megalosaurus\n    \n    lived in Europe": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|tell me about Dinosaur|they have captured people's imagination": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|who is the king of the dinosaurs? |Ankylosaurus\n    \n\n\n\n\n\n     Deinonychus": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|what are dinosaurs?|land animals": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Retrieved|how many dinosaurs are there?|none": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Is Dinosaur a type of Drink? (if not then what is it?)|Warm-bloodedness": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|when was Dinosaur present here on earth?|Antarctica": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Hi. How long ago had the dinosaurs become extinct?|over 30 years": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|which is the most dangerous dinosaur|quadrupedal herbivores": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Whose the main character of the Karate KId?|Pat E. Johnson": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|When was The Karate Kid released?|1984": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|when was game of throne first release?|November 24,1964": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What is Game of Thrones about?|The\n    \n     Game of Thrones\n    \n    TV series already surpassed": [
+    0.5,
+    0.0,
+    0.0
+  ],
+  "Retrieved|when was the last season released?|March 31, 2013": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Is game of thrones a movie or show?|movie adaption": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Who is the author of game of thrones?|George R.R. Martin": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "Retrieved|what year was game of thrones released? |2010": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Was Tywin Lanaster a good guy or bad guy?|evil": [
+    1.0,
+    0.142857,
+    0.24999978124997269
+  ],
+  "Retrieved|I know nothing about Game of Thrones; what's the general plot?|war for Westeros\n         \n         Great War\n        \n\n\n\n\n\n     War of the Five Kings": [
+    0.333,
+    0.125,
+    0.18176855895196506
+  ],
+  "Retrieved|What is Game of Thrones?|A Clash of Kings\n    \n    &\n    \n     A Storm of Swords": [
+    0.0,
+    0.2,
+    0.0
+  ],
+  "Retrieved|Who is the main character in Game of Thrones?|David Benioff": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Is the Game of Thrones meant to be a fictional history of Earth?|there is no more elaborate name": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|who is the most famous character in the game of thrones?|Oberyn Martell": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|How many books are in the Game of Thrones series?|one": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What is the premise of game of thrones? Is it based on real countries/places?|cyvasse": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What is the basis of the Game of Thrones seris?|Kingsguard\n    \n\n\n      Season": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What genre does the Game of Thrones fall under?|poetic": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What is Game of Thrones armor made of?|stylized interlocking gold hands": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|How many books have been published in the Game of Thrones series so far?|four": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|who is the star in this series?|Charles Dance": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|who was the writer of Game of throne?|George R.R. Martin": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "Retrieved|who is the star in this show?|Theon Greyjoy": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What is the basic story of Game of Thrones?|Samwell Tarly": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|who is the best character in game of thrones?|enyra": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What is the Game of Thrones?|A Clash of Kings": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What is the most recent season of Game of Thrones?|Seasons 1-4": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|who was House of Targaryen in Game of Thrones?|House Greyjoy": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Who creat the game of thrones universe? |Aegon II Targaryen": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|Where was the Game of Thrones shot?|Malta": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|who is the protagonist of the show? |David J. Peterson": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|when was the firs series released?|1986": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Retrieved|What is Game of thrones its real or not?|The\n   \n    Iron Throne": [
+    0.0,
+    0.0,
+    0.0
+  ]
 }
