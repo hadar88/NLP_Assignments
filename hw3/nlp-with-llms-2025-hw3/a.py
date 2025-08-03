@@ -16,7 +16,7 @@ def get_cache_key(topic, question):
 
 s = set()
 
-with open("../PragmatiCQA/data/test.jsonl", 'r') as file:
+with open("../PragmatiCQA/data/val.jsonl", 'r') as file:
     for line in file:
         data = json.loads(line)
         topic = data.get('topic')
