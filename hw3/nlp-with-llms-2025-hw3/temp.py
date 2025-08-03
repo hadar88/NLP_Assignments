@@ -246,23 +246,6 @@ print("-" * 50)
 for config, results in val_results.items():
     print(f"{config:<12} | {results['precision']:.3f}    | {results['recall']:.3f} | {results['f1']:.3f} | {results['count']}")
 
-# Show some sample predictions
-print("\n=== Sample Test Set Predictions ===")
-for i in range(min(3, len(test_data))):
-    conversation = test_data[i]
-    topic = conversation['topic']
-    first_qa = conversation['qas'][0]
-    question = first_qa['q']
-    gold_answer = first_qa['a']
-    
-    print(f"\nExample {i+1} - Topic: {topic}")
-    print(f"Question: {question}")
-    print(f"Gold Answer: {gold_answer}")
-    
-    for config in ["Literal", "Pragmatic", "Retrieved"]:
-        pred_answer = test_predictions[config]['predictions'][i].response
-        print(f"{config} Prediction: {pred_answer}")
-
 # Analysis continues...
 print("\n=== Analysis ===")
 
