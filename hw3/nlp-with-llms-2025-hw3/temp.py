@@ -1,15 +1,9 @@
 # DSPy Module for Pragmatic QA
 class PragmaticQAModule(dspy.Module):
-    def __init__(self, retriever=None):
-        super().__init__()
-        self.retriever = retriever
+    def __init__(self):
         self.generate_answer = dspy.ChainOfThought("context, conversation_history, question -> answer")
         
     def forward(self, question, conversation_history="", context=""):
-        # If no context provided and retriever available, retrieve context
-        if not context and self.retriever:
-            retrieved = self.retriever(question)
-            context = " ".join(retrieved.passages)
         
         # Generate pragmatic answer considering conversation history
         result = self.generate_answer(
@@ -18,9 +12,16 @@ class PragmaticQAModule(dspy.Module):
             question=question
         )
         
-        return dspy.Prediction(answer=result.answer)
+        return result.answer
 
-# 4.4.1 - Evaluate LLM on first questions (same as Part 1 scope)
+# Function to format conversation history
+def format_conversation_history(qas_so_far):
+    history = []
+    for qa in qas_so_far:
+        history.append(f"Q: {qa['q']}\nA: {qa['a']}")
+    return "\n\n".join(history)
+
+# 4.4.1 - Evaluate LLM on first questions (following your pattern)
 def evaluate_llm_first_questions(dataset):
     examples = []
     predictions = []
@@ -31,6 +32,9 @@ def evaluate_llm_first_questions(dataset):
             cache = json.load(f)
     else:
         cache = {}
+    
+    # Initialize the pragmatic QA module once
+    pragmatic_qa = PragmaticQAModule()
     
     for conversation in dataset:
         topic = conversation['topic']
@@ -44,14 +48,13 @@ def evaluate_llm_first_questions(dataset):
         cache_key = f"{topic}|{question}"
         
         if cache_key not in cache:
-            # Create retriever for this topic
+            # Create retriever and get context (following your pattern)
             search = make_search(topic)
+            retrieved = search(question)
+            context = " ".join(retrieved.passages)
             
-            # Initialize the pragmatic QA module
-            pragmatic_qa = PragmaticQAModule(retriever=search)
-            
-            # Generate prediction (no conversation history for first question)
-            pred = pragmatic_qa(question=question, conversation_history="")
+            # Generate prediction with retrieved context
+            pred = pragmatic_qa(question=question, conversation_history="", context=context)
             pred_answer = pred.answer
             
             cache[cache_key] = pred_answer
@@ -68,17 +71,96 @@ def evaluate_llm_first_questions(dataset):
     
     return examples, predictions
 
-# Evaluate LLM on validation set first questions
+# 4.4.2 - Evaluate on all questions with conversational context
+def evaluate_llm_all_questions(dataset):
+    examples = []
+    predictions = []
+    
+    cache_file = "llm_all_q_cache.json"
+    if os.path.exists(cache_file):
+        with open(cache_file, "r", encoding="utf-8") as f:
+            cache = json.load(f)
+    else:
+        cache = {}
+    
+    # Initialize the pragmatic QA module once
+    pragmatic_qa = PragmaticQAModule()
+    
+    for conversation in dataset:
+        topic = conversation['topic']
+        if topic not in folders:
+            continue
+            
+        # Create retriever for this topic once per conversation
+        search = make_search(topic)
+        
+        # Process each question in the conversation
+        conversation_so_far = []
+        
+        for qa in conversation['qas']:
+            question = qa['q']
+            gold_answer = qa['a']
+            
+            # Format conversation history
+            conv_history = format_conversation_history(conversation_so_far)
+            
+            cache_key = f"{topic}|{conv_history}|{question}"
+            
+            if cache_key not in cache:
+                # Get context for current question
+                retrieved = search(question)
+                context = " ".join(retrieved.passages)
+                
+                # Generate prediction with conversation context and retrieved context
+                pred = pragmatic_qa(question=question, conversation_history=conv_history, context=context)
+                pred_answer = pred.answer
+                
+                cache[cache_key] = pred_answer
+                with open(cache_file, "w", encoding="utf-8") as f:
+                    json.dump(cache, f, ensure_ascii=False, indent=2)
+            else:
+                pred_answer = cache[cache_key]
+            
+            example = dspy.Example(question=question, response=gold_answer)
+            prediction = dspy.Example(question=question, response=pred_answer)
+            
+            examples.append(example)
+            predictions.append(prediction)
+            
+            # Add this QA to conversation history for next questions
+            conversation_so_far.append({'q': question, 'a': gold_answer})
+    
+    return examples, predictions
+
+# 4.4.1 Evaluation
 print("4.4.1 - Evaluating LLM on first questions (same scope as Part 1)...")
 val_examples_llm_first, val_predictions_llm_first = evaluate_llm_first_questions(val_data)
 
-# Evaluate LLM scores
+# Cache for LLM scores
+llm_score_cache_file = "llm_val_score_cache.json"
+if os.path.exists(llm_score_cache_file):
+    with open(llm_score_cache_file, "r", encoding="utf-8") as f:
+        llm_score_cache = json.load(f)
+else:
+    llm_score_cache = {}
+
+# Evaluate LLM first questions scores
 llm_first_scores = {"precision": [], "recall": [], "f1": []}
 for example, prediction in zip(val_examples_llm_first, val_predictions_llm_first):
-    result = metric(example, prediction)
-    llm_first_scores["precision"].append(result["precision"])
-    llm_first_scores["recall"].append(result["recall"])
-    llm_first_scores["f1"].append(result["f1"])
+    cache_key = f"LLM_First|{example.question}|{prediction.response}"
+    
+    if cache_key not in llm_score_cache:
+        result = metric(example, prediction)
+        score = [result["precision"], result["recall"], result["f1"]]
+        llm_score_cache[cache_key] = score
+        with open(llm_score_cache_file, "w", encoding="utf-8") as f:
+            json.dump(llm_score_cache, f, ensure_ascii=False, indent=2)
+    else:
+        score = llm_score_cache[cache_key]
+    
+    llm_first_scores["precision"].append(score[0])
+    llm_first_scores["recall"].append(score[1])
+    llm_first_scores["f1"].append(score[2])
 
 llm_first_results = {
     'precision': sum(llm_first_scores['precision']) / len(llm_first_scores['precision']),
@@ -87,7 +169,36 @@ llm_first_results = {
     'count': len(llm_first_scores['f1'])
 }
 
-# Compare with Part 1 results
+# 4.4.2 Evaluation
+print("\n4.4.2 - Evaluating LLM on all questions with conversational context...")
+val_examples_llm_all, val_predictions_llm_all = evaluate_llm_all_questions(val_data)
+
+# Evaluate LLM all questions scores
+llm_all_scores = {"precision": [], "recall": [], "f1": []}
+for example, prediction in zip(val_examples_llm_all, val_predictions_llm_all):
+    cache_key = f"LLM_All|{example.question}|{prediction.response}"
+    
+    if cache_key not in llm_score_cache:
+        result = metric(example, prediction)
+        score = [result["precision"], result["recall"], result["f1"]]
+        llm_score_cache[cache_key] = score
+        with open(llm_score_cache_file, "w", encoding="utf-8") as f:
+            json.dump(llm_score_cache, f, ensure_ascii=False, indent=2)
+    else:
+        score = llm_score_cache[cache_key]
+    
+    llm_all_scores["precision"].append(score[0])
+    llm_all_scores["recall"].append(score[1])
+    llm_all_scores["f1"].append(score[2])
+
+llm_all_results = {
+    'precision': sum(llm_all_scores['precision']) / len(llm_all_scores['precision']),
+    'recall': sum(llm_all_scores['recall']) / len(llm_all_scores['recall']),
+    'f1': sum(llm_all_scores['f1']) / len(llm_all_scores['f1']),
+    'count': len(llm_all_scores['f1'])
+}
+
+# Display comprehensive results
 print("\n4.4.1 Comparison - First Questions Only:")
 print("Configuration      | Precision | Recall | F1 Score | Count")
 print("-" * 65)
@@ -98,3 +209,23 @@ for config, results in val_results.items():
 
 # Print LLM results
 print(f"{'LLM (DSPy)':<18} | {llm_first_results['precision']:.4f}   | {llm_first_results['recall']:.4f}  | {llm_first_results['f1']:.4f}   | {llm_first_results['count']}")
+
+print(f"\n4.4.2 Results - All Questions with Conversational Context:")
+print(f"{'LLM (All + Ctx)':<18} | {llm_all_results['precision']:.4f}   | {llm_all_results['recall']:.4f}  | {llm_all_results['f1']:.4f}   | {llm_all_results['count']}")
+
+print(f"\nAnalysis:")
+print(f"4.4.1 - LLM vs Traditional on first questions:")
+best_traditional = max(val_results.values(), key=lambda x: x['f1'])
+print(f"  LLM F1: {llm_first_results['f1']:.4f} vs Best Traditional: {best_traditional['f1']:.4f}")
+print(f"  Difference: {llm_first_results['f1'] - best_traditional['f1']:.4f} F1 points")
+
+print(f"4.4.2 - Impact of conversational context:")
+print(f"  LLM First Questions: {llm_first_results['f1']:.4f} F1")
+print(f"  LLM All + Context:   {llm_all_results['f1']:.4f} F1")
+print(f"  Context Impact: {llm_all_results['f1'] - llm_first_results['f1']:.4f} F1 points")
+
+print(f"\nMetric used for optimization: SemanticF1")
+print("- Measures semantic similarity rather than exact string matching")
+print("- Provides precision, recall, and F1 for comprehensive evaluation") 
+print("- Designed for conversational QA with multiple valid phrasings")
+print("- Captures pragmatic relevance of generated information")
