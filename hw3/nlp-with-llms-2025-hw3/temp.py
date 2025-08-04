@@ -18,7 +18,7 @@ class PragmaticQAModule(dspy.Module):
 def format_conversation_history(qas_so_far):
     history = []
     for qa in qas_so_far:
-        history.append(f"Q: {qa['q']}\nA: {qa['a']}")
+        history.append(f"Question: {qa['q']} \nAnswer: {qa['a']}")
     return "\n\n".join(history)
 
 # 4.4.1 - Evaluate LLM on first questions (following your pattern)
@@ -71,66 +71,69 @@ def evaluate_llm_first_questions(dataset):
     
     return examples, predictions
 
-# 4.4.2 - Evaluate on all questions with conversational context
+# 4.4.2 - Evaluate the model on all questions with conversation history
 def evaluate_llm_all_questions(dataset):
     examples = []
     predictions = []
-    
-    cache_file = "llm_all_q_cache.json"
+
+    cache_file = "llm_all_questions_cache.json"
     if os.path.exists(cache_file):
         with open(cache_file, "r", encoding="utf-8") as f:
             cache = json.load(f)
     else:
         cache = {}
-    
-    # Initialize the pragmatic QA module once
-    pragmatic_qa = PragmaticQAModule()
-    
+
+    # Initialize the multistep prompting module
+    multistep_qa = MultistepQA()
+
     for conversation in dataset:
         topic = conversation['topic']
         if topic not in folders:
             continue
-            
-        # Create retriever for this topic once per conversation
+
         search = make_search(topic)
-        
-        # Process each question in the conversation
         conversation_so_far = []
-        
-        for qa in conversation['qas']:
+
+        for qa_index, qa in enumerate(conversation['qas']):
             question = qa['q']
             gold_answer = qa['a']
-            
-            # Format conversation history
-            conv_history = format_conversation_history(conversation_so_far)
-            
-            cache_key = f"{topic}|{conv_history}|{question}"
-            
+
+            conversation_history = format_conversation_history(conversation_so_far)
+
+            # Use topic and question index instead of full history
+            cache_key = f"{topic}|{qa_index}|{question}"
+
             if cache_key not in cache:
-                # Get context for current question
-                retrieved = search(question)
-                context = " ".join(retrieved.passages)
-                
-                # Generate prediction with conversation context and retrieved context
-                pred = pragmatic_qa(question=question, conversation_history=conv_history, context=context)
-                pred_answer = pred.answer
-                
+                passages = search(question).passages
+                context = " ".join(passages)
+
+                pred_answer = multistep_qa(question=question, context=context, conversation_history=conversation_history)
                 cache[cache_key] = pred_answer
+
                 with open(cache_file, "w", encoding="utf-8") as f:
                     json.dump(cache, f, ensure_ascii=False, indent=2)
             else:
                 pred_answer = cache[cache_key]
-            
+
             example = dspy.Example(question=question, response=gold_answer)
             prediction = dspy.Example(question=question, response=pred_answer)
-            
+
             examples.append(example)
             predictions.append(prediction)
-            
+
             # Add this QA to conversation history for next questions
             conversation_so_far.append({'q': question, 'a': gold_answer})
-    
+
     return examples, predictions
+
+
+
+
+
+
+
+
+
 
 # 4.4.1 Evaluation
 print("4.4.1 - Evaluating LLM on first questions (same scope as Part 1)...")
@@ -168,6 +171,13 @@ llm_first_results = {
     'f1': sum(llm_first_scores['f1']) / len(llm_first_scores['f1']),
     'count': len(llm_first_scores['f1'])
 }
+
+
+
+
+
+
+
 
 # 4.4.2 Evaluation
 print("\n4.4.2 - Evaluating LLM on all questions with conversational context...")
