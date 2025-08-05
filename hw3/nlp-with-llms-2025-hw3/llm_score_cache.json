@@ -188,5 +188,475 @@
     1.0,
     0.25,
     0.4
+  ],
+  "LLM_first|What is the plot of the show?|The show \"Supernanny\" follows childcare expert Jo Frost as she visits families struggling with misbehaving children. In each episode, Jo observes the family's daily routines, identifies problematic behaviors, and implements structured techniques (such as the Naughty Bench, Penalty Spot, or Homework Time) to help parents regain control, improve discipline, and foster better relationships. The goal is to transform chaotic households into harmonious ones, often addressing issues like aggression, tantrums, and parental conflicts.": [
+    0.1,
+    0.333,
+    0.15381062355658198
+  ],
+  "LLM_first|what year was the show release ? |2004": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|what year was supernanny released? |2004": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "LLM_first|What is Supernanny?|Supernanny is a reality television show that originated in the United Kingdom in 2004, featuring professional nanny Jo Frost who assists families in addressing behavioral issues with their children. The show has been adapted internationally, including versions in the US on networks like ABC and Lifetime, and it focuses on teaching parenting techniques such as reward charts, the naughty step, and other discipline methods to promote better family dynamics.": [
+    0.5,
+    1.0,
+    0.6666666666666666
+  ],
+  "LLM_first|What is Supernanny about?|Supernanny is a reality TV show where expert nanny Jo Frost visits families struggling with child behavior and parenting issues, teaching them practical techniques like the Naughty Step, Reward Charts, and anger management to foster better discipline and family harmony.": [
+    0.5,
+    0.75,
+    0.6
+  ],
+  "LLM_first|What is supernanny?|Supernanny is a reality television series that originated in the United Kingdom in 2004 on Channel 4. It features expert nanny Jo Frost (in the UK and US versions) who helps families address and improve their children's behavior through practical techniques, such as reward charts and the naughty step. The show has been adapted internationally, with versions broadcast in countries like the US (on ABC and Lifetime), France, Germany, and others, and it has gained popularity for its parenting advice while also facing controversy over its depiction of discipline methods.": [
+    0.5,
+    1.0,
+    0.6666666666666666
+  ],
+  "LLM_first|what genre is the tv series? |The TV series \"Supernanny\" is in the reality television genre.": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "LLM_first|Ok, Where does the Supernanny mainly live (country)?|United Kingdom": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "LLM_first|What is a Supernanny at all? Movie series? |Supernanny is not a movie series; it is a reality television show that originated in the United Kingdom. The original British version, hosted by Jo Frost, first aired on Channel 4 in 2004 and focuses on helping families improve their parenting techniques and manage children's behavior through practical advice and discipline strategies. It has been adapted internationally, with versions broadcast in countries like the U.S. (on ABC and Lifetime), France, Germany, and others. If you're referring to the content, it's episodic TV, not films, and it includes elements like family interventions and viewer ratings data as detailed in the context.": [
+    0.5,
+    1.0,
+    0.6666666666666666
+  ],
+  "LLM_first|what year was the show released?|2004": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|what type of t series is supernanny? |Supernanny is a reality TV series that focuses on helping families improve their parenting techniques and manage child behavior.": [
+    0.667,
+    0.667,
+    0.667
+  ],
+  "LLM_first|what is supernanny? |Supernanny is a reality television series that originated in the UK in 2004, featuring expert nanny Jo Frost who assists families in managing and improving children's behavior through practical techniques and advice. The show has various international versions and adaptations, making it popular worldwide, though it has faced controversy for its depictions of discipline methods.": [
+    0.375,
+    1.0,
+    0.5454545454545454
+  ],
+  "LLM_first|what is Supernanny?|Supernanny is a reality television series that originated in the United Kingdom on Channel 4 in 2004, featuring expert nanny Jo Frost helping families address and improve their children's behavior through techniques like reward charts, time-outs, and discipline strategies. It has been adapted internationally, with versions airing in countries like the US (on networks such as ABC and Lifetime), France, Germany, and others, and is known for its focus on parenting challenges, though it has faced controversy over its depiction of discipline methods.": [
+    0.3333333333333333,
+    0.5,
+    0.4
+  ],
+  "LLM_first|what year did supernanny come out? |2004": [
+    1.0,
+    0.3333333333,
+    0.4999999999625
+  ],
+  "LLM_first|who is Supernanny?|Supernanny refers to Jo Frost, a British television personality and professional nanny who stars in the reality TV show \"Supernanny.\" She helps families improve their parenting techniques and manage child behavior issues. The show originated in the UK and has various international adaptations.": [
+    0.25,
+    0.6666666666666666,
+    0.36363636363636365
+  ],
+  "LLM_first|What year did supernanny come out? |Supernanny first came out in 2004.": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "LLM_first|Tell me about yourself, What is the use of this study?|I'm Grok, an AI assistant created by xAI to be helpful, truthful, and a bit witty. I'm designed to answer questions, provide insights, and assist with a wide range of topics, including parenting advice based on reliable sources.\n\nAs for the use of \"this study,\" it seems to refer to the content in the context you provided, which describes techniques from the Supernanny TV show. These techniques, like the Bye Bye Bottle method or the Timeout (e.g., Naughty Step), are used to help parents improve child behavior and development. For example:\n- The Bye Bye Bottle technique is for weaning children off bottles to encourage independence and reduce tantrums, typically by explaining the change, offering alternatives like cups, and staying firm during resistance.\n- Timeout methods are behavioral tools to address misbehavior by giving children a break to calm down, promoting self-reflection and better discipline.\n\nOverall, the purpose is to educate parents on effective, evidence-based strategies to handle common challenges in child-rearing, fostering healthier family dynamics and child growth.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|What is the key to raising someone elses kids?|The key to raising someone else's kids is family quality time, combined with consistent discipline, clear boundaries, and open communication to build trust and address behavioral challenges.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|who is supernanny?|Supernanny is Jo Frost, a British television personality and childcare expert who stars in the reality TV show \"Supernanny,\" where she helps families with child discipline and parenting techniques.": [
+    0.3333333333333333,
+    1.0,
+    0.5
+  ],
+  "LLM_first|who is the star of this serie?|Jo Frost": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "LLM_first|who created the show? |Jo Frost": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|Tell what year it was released? |Supernanny was released in 2005.": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "LLM_first|What year was it released? |2010": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|What does Supernanny do?|Supernanny is a reality TV show where experts, such as Jo Frost, visit families struggling with child behavior and parenting challenges. They provide practical techniques and guidance, like using reward charts, the naughty step, or anger management strategies, to help parents improve discipline, reduce tantrums, and foster better family relationships.": [
+    0.2,
+    0.25,
+    0.22222222222222224
+  ],
+  "LLM_first|What is jujutsu Kaisen?|Jujutsu Kaisen is a Japanese manga series written and illustrated by Gege Akutami, serialized in Weekly Shonen Jump since March 5, 2018. It follows the story of Yuji Itadori, a high school student who becomes entangled in a world of jujutsu sorcerers and cursed spirits after ingesting a powerful cursed object, leading him to fight supernatural threats alongside other characters in a dark fantasy setting.": [
+    0.333333,
+    1.0,
+    0.4999996249999062
+  ],
+  "LLM_first|what is jujutsu kaisen?|Jujutsu Kaisen is a Japanese manga series written and illustrated by Gege Akutami. It is serialized in Weekly Shonen Jump since March 5, 2018, and falls under the genres of dark fantasy, supernatural, and action. The story follows Yuji Itadori, a high school student who becomes entangled in a world of jujutsu sorcerers and cursed spirits after swallowing a powerful cursed object, leading him to join a magical school to fight against evil forces. It has gained immense popularity, with over 50 million copies in circulation, and has been adapted into an anime series.": [
+    0.125,
+    0.25,
+    0.16666666666666666
+  ],
+  "LLM_first|what is Jujutsu Kaisen and where is it most prevalent |Jujutsu Kaisen is a Japanese manga series written and illustrated by Gege Akutami, serialized in Weekly Shonen Jump since March 2018. It is a dark fantasy, supernatural action story about jujutsu sorcerers fighting cursed spirits, with main characters like Yuji Itadori navigating a world of curses and sorcery. It is most prevalent in Japan, where it is set (e.g., in locations like Tokyo and Kyoto) and originally published.": [
+    0.3,
+    1.0,
+    0.4615384615384615
+  ],
+  "LLM_first|who is this person?|Fumihiko Takaba is a character in the Jujutsu Kaisen series. He is a 35-year-old human male with black hair and light eyes, working as a failing comedian. He was turned into a sorcerer by Kenjaku to participate in the Culling Game. Takaba has a goofy and comedy-focused personality, often making jokes even in serious situations, and possesses a cursed technique called \"Comedian,\" which makes his ideas of humor become reality, though he is unaware of how it works fully. He first appears in Chapter 146 of the manga.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|Hello|Hello! How can I assist you with information from the Jujutsu Kaisen context today?": [
+    0.3333333333333333,
+    0.14285714285714285,
+    0.2
+  ],
+  "LLM_first|Who is the Jujusu Kaisen?|Jujutsu Kaisen is a Japanese manga series written and illustrated by Gege Akutami. It follows the story of Yuji Itadori, a high school student who becomes involved in a world of jujutsu sorcerers fighting cursed spirits.": [
+    0.17,
+    0.5,
+    0.2537313432835821
+  ],
+  "LLM_first|What exactly is Jujutsu Kaisen?|Jujutsu Kaisen is a Japanese manga series written and illustrated by Gege Akutami. It is serialized in Weekly Shonen Jump and has been ongoing since its first chapter was published on March 5, 2018. The story follows Yuji Itadori, a high school student who becomes involved in the world of jujutsu sorcerers after ingesting a cursed object, leading him to fight against cursed spirits. The series falls under the genres of dark fantasy, supernatural, and action, and it serves as a sequel to the prequel series Jujutsu Kaisen 0: Jujutsu High.": [
+    0.25,
+    0.6666666666666666,
+    0.36363636363636365
+  ],
+  "LLM_first|What's Enter the Gungeon about?|Enter the Gungeon is a dungeon crawler, action roguelike game developed by Dodge Roll and published by Devolver Digital. It features top-down gameplay where players control misfit characters called Gungeoneers, each burdened by a deep regret and seeking to change their past by delving into The Gungeon—a procedurally generated bullet hell dungeon filled with enemies, bosses, and bizarre weapons. Players navigate rooms, fight waves of foes, collect items, and use abilities like dodge rolling to survive, with the ultimate goal of confronting and killing their past to rewrite history. The game emphasizes fast-paced combat, exploration, and replayability through randomized elements.": [
+    0.1,
+    0.5,
+    0.16666666666666669
+  ],
+  "LLM_first|What year was this dinosaur release? |2015": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|when was the existence of Dinosaur?|Dinosaurs existed from approximately 240 million years ago, during the Late Triassic period, until about 66 million years ago, at the end of the Cretaceous period, for non-avian species. Birds, as avian dinosaurs, continue to exist today.": [
+    0.6666666666666666,
+    0.6666666666666666,
+    0.6666666666666666
+  ],
+  "LLM_first|what is your favorite dinosaur?|As an AI, I don't have personal favorites, but based on the context you provided, I'd say the Tyrannosaurus rex is fascinating! It's highlighted in shows like Dinosaur Train, where Buddy the T-Rex is a curious and intelligent character, and it's also a key example in discussions about dinosaur evolution and behavior. If you're into dinosaurs, T-Rex is a classic choice for its strength and iconic status.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|What was the first type of Dinosaur?|The first type of dinosaur, based on fossil evidence from the context, is Eoraptor, which appeared around 230 million years ago in the Triassic period and is considered one of the earliest known dinosaurs.": [
+    0.6,
+    1.0,
+    0.7499999999999999
+  ],
+  "LLM_first|What is a dinosaur?|A dinosaur is a clade of vertebrate animals that dominated terrestrial ecosystems for approximately 170 million years, first appearing about 240 million years ago. They are characterized by features such as a perforate acetabulum, reduced digits on the hands and feet, and an erect stance. Dinosaurs are divided into two main groups: Ornithischia (bird-hipped) and Saurischia (lizard-hipped), with birds being the only surviving descendants.": [
+    0.3333333333333333,
+    0.5,
+    0.4
+  ],
+  "LLM_first|Tell me about Dinosaur|Dinosaurs were a diverse group of vertebrate animals that dominated terrestrial ecosystems for about 170 million years, from the Late Triassic period around 240 million years ago until their extinction at the end of the Cretaceous period, 66 million years ago. They are classified into two main orders: Saurischia (including theropods like Tyrannosaurus rex and long-necked sauropods) and Ornithischia (such as armored dinosaurs and duck-billed hadrosaurs). Birds are considered the only surviving descendants of dinosaurs. Dinosaurs varied greatly in size, from small, crow-sized species to massive ones like Argentinosaurus, which could weigh up to 100 tons. They exhibited behaviors like herding, parental care, and possibly migration, as seen in fossils from places like Montana and the Gobi Desert. Their extinction is often attributed to events like an asteroid impact at the Chicxulub Crater, leading to environmental changes. In popular culture, dinosaurs have been featured in films like 'The Good Dinosaur' and 'Jurassic Park,' TV shows like 'Dinosaur Train,' and video games, captivating audiences and inspiring scientific interest.": [
+    0.44,
+    0.75,
+    0.5546218487394958
+  ],
+  "LLM_first|Hello. Hope you are great. When did dinosaurs live?|Dinosaurs lived from approximately 240 million years ago, during the Late Triassic period, until about 66 million years ago, at the end of the Cretaceous period. Birds, as descendants of theropod dinosaurs, are considered the only surviving lineage of dinosaurs today.": [
+    0.67,
+    0.5,
+    0.5726495726495727
+  ],
+  "LLM_first|what year did the dinosaurs exist? |Dinosaurs existed from approximately 240 million years ago to 66 million years ago for non-avian species, with birds as their modern descendants continuing to the present day.": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "LLM_first|How long were dinosaurs alive for?|Dinosaurs were alive for approximately 174 million years.": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "LLM_first|what is the biggest dinosaur known to science? |Based on the context, the biggest dinosaur known to science is Argentinosaurus, estimated to weigh up to 100,000 kg (121 tons).": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|what period did the dinosaurs exist? |Dinosaurs existed from the Late Triassic period, approximately 240 million years ago, through the Jurassic and Cretaceous periods, until the end of the Cretaceous period about 66 million years ago for non-avian dinosaurs. Birds, which are considered avian dinosaurs, continue to exist today.": [
+    0.6,
+    1.0,
+    0.7499999999999999
+  ],
+  "LLM_first|What is the tallest dinosaur of all time?|Sauroposeidon, estimated at 18 meters tall.": [
+    0.0,
+    0.5,
+    0.0
+  ],
+  "LLM_first|Where did the Dinosaurs go?|Dinosaurs, specifically non-avian dinosaurs, went extinct around 66 million years ago at the end of the Cretaceous period. The most widely supported theory is that a massive asteroid impact in the Yucatán Peninsula caused catastrophic effects, including a blast wave, global fires, and a \"nuclear winter\" from dust and debris blocking the sun, leading to rapid climate change and the collapse of ecosystems. Other factors, such as environmental shifts and possible multiple collisions, may have contributed. However, birds, which evolved from theropod dinosaurs, survived and are considered the living descendants of dinosaurs.": [
+    0.2,
+    1.0,
+    0.33333333333333337
+  ],
+  "LLM_first|How many horns did a triceratops have?|Triceratops had three horns: one on its snout and two above its eyes.": [
+    0.333333,
+    0.25,
+    0.28571416326523613
+  ],
+  "LLM_first|When did the dinosaurs reign?|Dinosaurs reigned from approximately 240 million years ago, during the Late Triassic period, until 66 million years ago, at the end of the Cretaceous period.": [
+    0.5,
+    0.6666666666666666,
+    0.5714285714285715
+  ],
+  "LLM_first|What is the most recently discovered dinosaur?|Based on the context provided, the most recently mentioned dinosaur discovery is Jinfengopteryx, a feathered dinosaur found in China as part of ongoing paleontological efforts.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|What is the Dinosaur|A dinosaur is a clade of vertebrate animals that dominated terrestrial ecosystems for approximately 170 million years, first appearing around 240 million years ago. They are defined by specific skeletal features, such as a perforate acetabulum and reduced digits on their limbs, and are divided into two main groups: Saurischia (lizard-hipped) and Ornithischia (bird-hipped). Birds are the only surviving dinosaurs, as they evolved from theropod dinosaurs.": [
+    0.6666666666666666,
+    0.8,
+    0.7272727272727272
+  ],
+  "LLM_first|When did dinosaurs first show up?|Dinosaurs first appeared approximately 230 million years ago during the Middle to Late Triassic period.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|waht are dinosaurs?|Dinosaurs are a clade of vertebrate animals that first appeared around 240 million years ago and dominated terrestrial ecosystems for about 170 million years until a mass extinction at the end of the Cretaceous period, about 66 million years ago. They are characterized by features such as a perforated hip socket, three-toed feet, and an upright posture. Birds are the only surviving dinosaurs, as they evolved from theropod dinosaurs. Dinosaurs varied widely in size, behavior, and diet, with some being herbivores, carnivores, bipeds, or quadrupeds.": [
+    0.7143,
+    0.8333,
+    0.7692248513827863
+  ],
+  "LLM_first|Can you tell me what Dinosuars are?|Dinosaurs were a diverse group of reptiles that lived on Earth from about 230 million to 66 million years ago during the Mesozoic Era. They varied greatly in size, from small, bird-like species to massive creatures like Tyrannosaurus rex and Brachiosaurus. Many were terrestrial, while others, like pterosaurs, could fly. They became extinct around 66 million years ago, possibly due to an asteroid impact. In the media described in the context, such as Dino Dan and Dinotopia, dinosaurs are often depicted as fascinating, educational subjects or even anthropomorphic characters, helping to teach about their biology, behavior, and history.": [
+    0.17,
+    0.2,
+    0.1837837837837838
+  ],
+  "LLM_first|When Dinosaur lived in the world?|Dinosaurs lived from approximately 240 million years ago, starting in the Late Triassic period, until about 66 million years ago at the end of the Cretaceous period for non-avian species. Modern birds, which are descendants of dinosaurs, continue to exist today.": [
+    0.2,
+    0.2,
+    0.20000000000000004
+  ],
+  "LLM_first|tell me about Dinosaur|Dinosaurs were a diverse group of vertebrate animals that dominated terrestrial ecosystems for about 170 million years, from the Late Triassic period around 240 million years ago until their extinction at the end of the Cretaceous period, about 66 million years ago. They are defined as descendants of a common ancestor, with birds being the only surviving lineage today, as they evolved from theropod dinosaurs.\n\nKey characteristics include:\n- **Classification**: Dinosaurs are divided into two main orders based on hip structure: Saurischia (lizard-hipped, including theropods like Tyrannosaurus rex and sauropods like Diplodocus) and Ornithischia (bird-hipped, including herbivores like Triceratops and Stegosaurus).\n- **Size and Behavior**: Dinosaurs varied greatly in size, from small species under 2 feet long to giants like Argentinosaurus, which could weigh up to 100 tons. Many were likely active and possibly warm-blooded, with evidence suggesting behaviors like herding, parental care (e.g., Maiasaura nesting grounds), and even feathers in some species, linking them to birds.\n- **Evolution and Extinction**: They evolved from archosaur ancestors and adapted to various environments. Extinction is often attributed to events like an asteroid impact (e.g., the Chicxulub Crater), environmental changes, or multiple collisions, leading to a rapid decline.\n- **Cultural Impact**: Dinosaurs have fascinated people for centuries, appearing in media like the film \"The Good Dinosaur\" (a 2015 Pixar movie about an Apatosaurus) and the TV series \"Dinosaur Train\" (which explores dinosaur life and science for children). Fossils have been discovered worldwide, fueling ongoing research and popular interest.\n\nFor more details, scientific studies continue to debate aspects like their warm-bloodedness and the bird-dinosaur connection, with evidence from fossils showing shared features like feathers and respiratory systems.": [
+    0.222222,
+    0.5,
+    0.30769209467449066
+  ],
+  "LLM_first|who is the king of the dinosaurs? |Tyrannosaurus rex is often considered the king of the dinosaurs due to its massive size, strength, and role as a apex predator.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|what are dinosaurs?|Dinosaurs were a diverse group of reptiles that lived from about 240 million years ago to 66 million years ago, dominating terrestrial ecosystems for around 170 million years. They are defined as descendants of a common ancestor, characterized by features like a perforate hip socket, reduced digits on their hands and feet, and an upright posture. Dinosaurs included a wide range of species: herbivores like Triceratops and Apatosaurus, carnivores like Tyrannosaurus rex, and even ancestors of modern birds. Birds are the only surviving dinosaurs, as they evolved from theropod dinosaurs. Most dinosaurs went extinct at the end of the Cretaceous period, likely due to events like an asteroid impact.": [
+    0.5,
+    1.0,
+    0.6666666666666666
+  ],
+  "LLM_first|how many dinosaurs are there?|According to the context, 527 dinosaur genera have been identified with certainty, and 1,844 genera are believed to have existed based on a 2006 study. Note that this refers to genera, not individual dinosaurs, and modern birds are considered descendants of dinosaurs, but the context primarily discusses non-avian dinosaurs.": [
+    0.4,
+    0.2857,
+    0.3333236109085606
+  ],
+  "LLM_first|Is Dinosaur a type of Drink? (if not then what is it?)|No, Dinosaur is not a type of drink. It is a group of extinct reptiles that lived from the Late Triassic period to about 66 million years ago, with birds as their modern descendants. Dinosaurs were diverse animals, including herbivores and carnivores, and they are a significant part of paleontology and popular culture.": [
+    0.14,
+    0.75,
+    0.2359550561797753
+  ],
+  "LLM_first|when was Dinosaur present here on earth?|Dinosaurs were present on Earth from approximately 240 million years ago, during the Late Triassic period, until about 66 million years ago at the end of the Cretaceous period, when non-avian dinosaurs became extinct. However, birds, which are descendants of theropod dinosaurs, continue to exist today, representing the avian lineage of dinosaurs.": [
+    0.25,
+    0.333,
+    0.28559176672384223
+  ],
+  "LLM_first|Hi. How long ago had the dinosaurs become extinct?|Dinosaurs became extinct about 66 million years ago.": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "LLM_first|which is the most dangerous dinosaur|Based on the context, Spinosaurus is considered the most dangerous dinosaur due to its status as the largest known carnivorous dinosaur, with a length of 16–18 meters and a weight of up to 9 tons, making it a dominant predator.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|Whose the main character of the Karate KId?|The main character of The Karate Kid is Daniel LaRusso.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|When was The Karate Kid released?|1984": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|when was game of throne first release?|April 17, 2011": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "LLM_first|What is Game of Thrones about?|Game of Thrones is a fantasy drama television series based on George R.R. Martin's A Song of Ice and Fire novels. It follows the complex power struggles among noble houses in the fictional continents of Westeros and Essos, as they vie for control of the Iron Throne, the seat of power over the Seven Kingdoms. The story weaves together themes of political intrigue, warfare, family loyalties, and supernatural threats, including ancient forces beyond the Wall and the return of dragons, amidst a world where seasons can last for years.": [
+    0.083333,
+    0.333333,
+    0.133332879999808
+  ],
+  "LLM_first|when was the last season released?|April 14, 2019": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|Is game of thrones a movie or show?|Game of Thrones is a TV show.": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "LLM_first|Who is the author of game of thrones?|George R.R. Martin": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "LLM_first|what year was game of thrones released? |Game of Thrones was released in 2011.": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "LLM_first|Was Tywin Lanaster a good guy or bad guy?|Bad guy": [
+    1.0,
+    0.1429,
+    0.25006562253915476
+  ],
+  "LLM_first|I know nothing about Game of Thrones; what's the general plot?|Game of Thrones is a fantasy epic based on George R.R. Martin's \"A Song of Ice and Fire\" novels. It follows the complex power struggles in the fictional world of Westeros and beyond, where several noble houses compete for control of the Iron Throne, a symbolic seat of power forged from the swords of conquered enemies. The story centers on themes of political intrigue, family rivalries, and warfare among these houses, such as the Targaryens, Baratheons, and Lannisters, as they navigate alliances, betrayals, and conflicts. Meanwhile, in the North, ancient threats like mysterious forces beyond the Wall add elements of fantasy and danger. The series also explores a young woman's journey in a distant land, where she builds an army and faces her own challenges of leadership and liberation. Overall, it's a tale of ambition, survival, and the human cost of power, blending medieval-style drama with dragons, magic, and epic battles.": [
+    0.375,
+    0.625,
+    0.46875
+  ],
+  "LLM_first|What is Game of Thrones?|Game of Thrones is a critically acclaimed HBO television series based on George R.R. Martin's A Song of Ice and Fire novels. It follows the complex power struggles among noble houses in the fictional continents of Westeros and Essos, featuring political intrigue, epic battles, and elements of fantasy, including dragons and the undead.": [
+    0.4,
+    0.6,
+    0.48
+  ],
+  "LLM_first|Who is the main character in Game of Thrones?|Game of Thrones does not have a single main character due to its ensemble cast, but Daenerys Targaryen is one of the central protagonists, often considered a leading figure in the story.": [
+    0.25,
+    0.333,
+    0.28559176672384223
+  ],
+  "LLM_first|Is the Game of Thrones meant to be a fictional history of Earth?|No": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "LLM_first|who is the most famous character in the game of thrones?|Tyrion Lannister": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "LLM_first|How many books are in the Game of Thrones series?|There are 5 books in the main A Song of Ice and Fire series that have been published as of the provided context.": [
+    0.3333333333333333,
+    0.25,
+    0.28571428571428575
+  ],
+  "LLM_first|What is the premise of game of thrones? Is it based on real countries/places?|The premise of Game of Thrones is a fantasy drama set in the fictional continents of Westeros and Essos, where noble houses vie for control of the Iron Throne in the Seven Kingdoms. It follows multiple interconnected storylines involving political intrigue, warfare, family rivalries, and supernatural elements like dragons and White Walkers, amidst a world where seasons can last for years. The narrative explores themes of power, betrayal, and survival in a medieval-inspired setting.\n\nNo, Game of Thrones is not directly based on real countries or places; it is a fictional world created by George R.R. Martin in his A Song of Ice and Fire series. However, it draws inspiration from real historical events, such as the Wars of the Roses in English history, which influenced the political conflicts and character dynamics, but the locations and events are entirely invented.": [
+    0.4286,
+    0.8,
+    0.5581637636334038
+  ],
+  "LLM_first|What is the basis of the Game of Thrones seris?|The Game of Thrones series is based on the fantasy novel series \"A Song of Ice and Fire\" by George R.R. Martin. The television adaptation, created by David Benioff and D.B. Weiss, draws heavily from the books' intricate plot, characters, and themes of political intrigue, warfare, and mythology in the fictional world of Westeros and Essos.": [
+    0.2,
+    1.0,
+    0.33333333333333337
+  ],
+  "LLM_first|What genre does the Game of Thrones fall under?|The Game of Thrones falls under the fantasy genre.": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "LLM_first|What is Game of Thrones armor made of?|In the Game of Thrones series, armor is generally depicted as being made from materials inspired by medieval history, including steel for plate armor, chainmail for flexibility, and leather for underlayers or lighter protection. For example, Lannister armor is often shown as polished steel plate, while other factions like the Dothraki use leather and minimal metal for mobility. In real-world production, the props are crafted from modern materials like polyurethane, metal alloys, and leather to mimic these appearances while ensuring they are lightweight and safe for actors. However, the provided context does not specify exact materials, focusing more on weapons and narrative elements.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|How many books have been published in the Game of Thrones series so far?|Five books have been published in the Game of Thrones series so far.": [
+    1.0,
+    0.333333,
+    0.4999996249999062
+  ],
+  "LLM_first|who is the star in this series?|Emilia Clarke is a star in the series \"Game of Thrones,\" where she plays the role of Daenerys Targaryen.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|who was the writer of Game of throne?|The primary writers of Game of Thrones are David Benioff and D.B. Weiss, who served as showrunners and wrote most of the episodes.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|who is the star in this show?|Peter Dinklage, who plays Tyrion Lannister, is widely considered a major star of Game of Thrones due to his significant and recurring role throughout the series.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|What is the basic story of Game of Thrones?|Game of Thrones is a fantasy series based on George R.R. Martin's \"A Song of Ice and Fire\" novels. It follows the complex power struggles among noble families in the fictional continents of Westeros and Essos. The central plot revolves around the fight for control of the Iron Throne, the seat of power in the Seven Kingdoms, amidst political intrigue, alliances, betrayals, and wars. Key elements include the Stark and Lannister families' conflicts, the resurgence of dragons, and an ancient threat from the north, blending epic battles, personal dramas, and supernatural forces.": [
+    0.22,
+    0.43,
+    0.29107692307692307
+  ],
+  "LLM_first|who is the best character in game of thrones?|Tyrion Lannister": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|What is the Game of Thrones?|Game of Thrones is a television series adapted from George R.R. Martin's fantasy novels, A Song of Ice and Fire. It depicts a complex struggle for power in the fictional continents of Westeros and Essos, featuring noble houses vying for control of the Iron Throne amidst wars, alliances, betrayals, and supernatural threats.": [
+    0.4,
+    0.6666666666666666,
+    0.5
+  ],
+  "LLM_first|What is the most recent season of Game of Thrones?|The most recent season of Game of Thrones is Season 8.": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "LLM_first|who was House of Targaryen in Game of Thrones?|House Targaryen was a noble house from the ancient Valyrian Freehold, known for their silver hair, pale skin, and ability to bond with dragons. They conquered and unified the Seven Kingdoms of Westeros under Aegon I Targaryen, ruling as kings for nearly 300 years with the house words \"Fire and Blood.\" The family faced internal strife due to inbreeding, which sometimes led to madness, as seen in King Aerys II, the Mad King. Their rule ended during Robert's Rebellion, sparked by Prince Rhaegar's actions, resulting in the deaths of many Targaryens, including Aerys II and Rhaegar. The survivors, Viserys and Daenerys, fled into exile. Daenerys Targaryen later returned with dragons, amassing armies and attempting to reclaim the Iron Throne, becoming a central figure in the series. Her campaign involved alliances, battles, and significant losses, ultimately leading to the house's decline, with Jon Snow (revealed as Aegon Targaryen) as the last known member, exiled beyond the Wall.": [
+    0.25,
+    1.0,
+    0.4
+  ],
+  "LLM_first|Who creat the game of thrones universe? |George R.R. Martin": [
+    1.0,
+    0.1667,
+    0.2857632639067455
+  ],
+  "LLM_first|Where was the Game of Thrones shot?|Game of Thrones was primarily filmed in Northern Ireland, with additional locations including Malta (Season 1), Croatia (Season 2-8), Iceland (Season 2-4 and 7-8), Morocco (Season 3), the United States (Season 3 and 7), Spain (Season 5-8), and Canada (Season 5).": [
+    0.25,
+    0.6666666666666666,
+    0.36363636363636365
+  ],
+  "LLM_first|who is the protagonist of the show? |The show Game of Thrones does not have a single protagonist, as it follows an ensemble cast of characters across multiple storylines. Key figures often considered central include Tyrion Lannister, Jon Snow, and Daenerys Targaryen, each with significant arcs and influence on the plot.": [
+    0.2,
+    0.333,
+    0.249906191369606
+  ],
+  "LLM_first|when was the firs series released?|The first season of Game of Thrones was released on April 17, 2011.": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "LLM_first|What is Game of thrones its real or not?|Game of Thrones is not real; it is a fictional TV series and book series created by George R.R. Martin, depicting an imaginary world with dragons, wars, and noble houses.": [
+    0.2,
+    0.5,
+    0.28571428571428575
   ]
 }
