@@ -1,0 +1,192 @@
+{
+  "LLM_first|Is the Batman comic similar to the movies?|Yes, many Batman movies are similar to the comics, especially 'The Dark Knight Returns', as they share themes of darkness, vigilantism, and key plot elements that influenced films like the Dark Knight Trilogy and Batman v Superman.": [
+    0.25,
+    0.333,
+    0.28559176672384223
+  ],
+  "LLM_first|what is batman's real name?|Bruce Wayne": [
+    1.0,
+    0.5,
+    0.6666666666666666
+  ],
+  "LLM_first|How old was batman when he first became batman?|23 years old": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|Does Batman Have super powers, like invisibility, or the ability to organically shoot a web from his hand?|No, Batman does not have superpowers like invisibility or the ability to organically shoot webs from his hands. He is a human character who relies on his exceptional training, intelligence, and advanced technology to fight crime.": [
+    0.6,
+    0.42857142857142855,
+    0.5
+  ],
+  "LLM_first|Who are Batman's biggest enemies?|Batman's biggest enemies, based on the context, are primarily drawn from his rogues gallery and include:\n\n- **The Joker**: His arch-nemesis, a clown-themed criminal known for chaos and frequent battles with Batman, often pushing him to his limits.\n- **Other major foes**: Catwoman, the Penguin, Two-Face, Poison Ivy, the Riddler, Scarecrow, Mr. Freeze, Ra's al Ghul, Bane, Harley Quinn, Clayface, the Mad Hatter, Hugo Strange, Killer Croc, Deadshot, and Hush. These villains are significant due to their recurring appearances, personal connections to Batman, and the threats they pose to Gotham City.": [
+    0.1176,
+    0.75,
+    0.2033195020746888
+  ],
+  "LLM_first|What is Batmans real name?|Bruce Wayne": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "LLM_first|Ok, Is batman a superhero?|Yes, Batman is a superhero.": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "LLM_first|who is the hero in batman|The hero in Batman is Batman himself, whose real name is Bruce Wayne. He is a vigilante and superhero who protects Gotham City, using his genius-level intellect, mastery of martial arts, and advanced technology to fight crime and injustice.": [
+    0.125,
+    1.0,
+    0.2222222222222222
+  ],
+  "LLM_first|When did Batman first appear?|Batman first appeared in 1939.": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "LLM_first|Did Batman start with a book or a movie?|Batman started with a book.": [
+    1.0,
+    0.333,
+    0.4996249062265567
+  ],
+  "LLM_first|how old is batman?|Batman is 26 years old, as referenced in the context from 'The Batman' series.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|what is batman's real name? |Batman's real name is Bruce Wayne.": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "LLM_first|Is batman s a superhero? |Yes, Batman is a superhero.": [
+    1.0,
+    0.2,
+    0.33333333333333337
+  ],
+  "LLM_first|what year was it release? |2022": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|Hi. When was the first Batman comic released?|The first Batman comic, Detective Comics #27, was released in May 1939.": [
+    1.0,
+    0.6666666666666666,
+    0.8
+  ],
+  "LLM_first|When was the original batman released?|The original Batman was released in 1943.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|Batman|Batman is the alter ego of Bruce Wayne, a billionaire philanthropist and CEO of Wayne Enterprises in Gotham City. After witnessing the murder of his parents as a child, Wayne dedicated his life to fighting crime, adopting the persona of Batman to strike fear into criminals. He is a highly skilled vigilante with no superpowers, relying on peak human conditioning, martial arts mastery, detective skills, and advanced technology. Key elements include:\n- **History**: Trained extensively, Batman operates from the Batcave and has allies like Alfred Pennyworth, Robin, Batgirl, and others. He has battled villains such as the Joker, Penguin, and Catwoman.\n- **Powers and Abilities**: Master of stealth, acrobatics, strategy, and combat; he possesses peak human strength, speed, and endurance.\n- **Equipment**: Includes the Batsuit, Batarangs, Utility Belt, and vehicles like the Batmobile.\n- **Appearances**: Featured in films, TV series (e.g., Batman: The Animated Series), and comics under Warner Bros. and DC Comics.\n\nBatman symbolizes justice and has inspired a vast franchise, including crossovers and adaptations.": [
+    0.2,
+    0.5,
+    0.28571428571428575
+  ],
+  "LLM_first|Who is Batman?|Batman is the secret identity of Bruce Wayne, a wealthy philanthropist and vigilante from Gotham City. After witnessing the murder of his parents as a child, Wayne dedicated his life to fighting crime, training himself to peak human physical and mental perfection. He operates as a masked crime-fighter, using advanced gadgets, martial arts mastery, and detective skills to protect Gotham, often working with allies like Robin and the Justice League while battling villains such as the Joker and Ra's al Ghul. As Batman, he embodies justice without superpowers, relying on his iron will, technology, and strategic mind.": [
+    0.0,
+    0.25,
+    0.0
+  ],
+  "LLM_first|Who is batman?|Batman is a fictional superhero and the alter ego of Bruce Wayne, a wealthy billionaire from Gotham City. After witnessing the murder of his parents as a child, Bruce dedicated his life to fighting crime and injustice, training himself to peak human physical and intellectual perfection. Operating as a vigilante, Batman uses advanced gadgets, martial arts mastery, detective skills, and psychological intimidation—without superpowers—to protect Gotham from criminals and supervillains. He is a prominent character in DC Comics, often depicted as a dark, brooding figure with a strict no-kill code, and has appeared in various media, including films, TV series, and storylines like those from Tim Burton's movies and the broader DC Universe.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|What was the first piece of media to feature Batman|The first piece of media to feature Batman, based on the context, is Detective Comics #60 in 1942.": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "LLM_first|When the first Batman movie released?|The first Batman movie, \"The Batman\" (a 1943 serial), was released in 1943.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|what year was batman launched?|1992": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|Hi. What is Batman's name?|Bruce Wayne": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "LLM_first|When did the Batman comics first appear?|Batman first appeared in comics in Detective Comics #27, which was published in May 1939.": [
+    1.0,
+    0.6666666666666666,
+    0.8
+  ],
+  "LLM_first|Does Batman have real wings? |No, Batman does not have real wings. His cape allows for gliding, but it is not a biological feature, and he relies on technology for aerial movement.": [
+    0.25,
+    0.333333,
+    0.28571416326523613
+  ],
+  "LLM_first|what is the batmobile?|The Batmobile is Batman's personal custom automobile and primary mode of transportation, first appearing in Batman #5 in 1941, created by Jerry Robinson and Bill Finger. It is depicted as a highly advanced vehicle used by Batman and Robin, featuring various designs across comics, TV series, films, and video games. Early versions were based on real cars like the 1936 Cord, evolving into iconic bat-themed models with gadgets such as bulletproof armor, smoke screens, missiles, and a turbocharged engine. It has become a staple of pop culture, symbolizing Batman's ingenuity and appearing in adaptations like the 1960s TV series, the Dark Knight Trilogy (as the Tumbler), and animated shows.": [
+    0.125,
+    0.25,
+    0.16666666666666666
+  ],
+  "LLM_first|What is the latest in the Batman Series of movies?|The latest film in the Batman series of movies is \"The Batman,\" a reboot directed by Matt Reeves and starring Robert Pattinson as Bruce Wayne/Batman. It is set to be released in spring 2022 and focuses on a more mystery-driven narrative, featuring villains like Catwoman (Zoë Kravitz), the Riddler (Paul Dano), and the Penguin (Colin Farrell).": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|Who was Batman's first villian?|Batman's first villain was the Joker.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|I filled out the test & clicked submit.  |It looks like you've successfully submitted your test! In the context of Injustice: Gods Among Us or Batman's world, this might be similar to completing a mission or solving a puzzle, like Batman's investigations in the comics. If you meant something specific from the game or stories, feel free to clarify.": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LLM_first|when was batman made?|Batman was first made in 1939.": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "LLM_first|what year was batman release? |1989": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "LLM_first|When did Batman first appear in a comic book?|Batman first appeared in a comic book in Detective Comics #27, which was published in May 1939.": [
+    0.5,
+    0.3333333333333333,
+    0.4
+  ],
+  "LLM_first|who is the star in batman?|The star of Batman is Bruce Wayne, the billionaire vigilante who operates as Batman to fight crime in Gotham City.": [
+    0.3333333333333333,
+    0.3333333333333333,
+    0.3333333333333333
+  ],
+  "LLM_first|What is Batman?|Batman is a fictional superhero appearing in American comic books published by DC Comics. Created by artist Bob Kane and writer Bill Finger, he first appeared in Detective Comics #27 in 1939. Batman is the alter ego of Bruce Wayne, a wealthy billionaire from Gotham City, who becomes a vigilante after witnessing his parents' murder. Lacking superpowers, he relies on his exceptional intellect, martial arts expertise, detective skills, and advanced technology to fight crime and protect Gotham from villains.": [
+    0.25,
+    0.4,
+    0.3076923076923077
+  ],
+  "LLM_first|when was batman made|Batman was first made in 1939.": [
+    1.0,
+    0.25,
+    0.4
+  ],
+  "LLM_first|Hi! Is Batman a real human? |Yes, Batman is a human.": [
+    1.0,
+    0.3333333333333333,
+    0.5
+  ],
+  "LLM_first|who played batman the most on tv?|Adam West played Batman the most on TV, appearing in 120 episodes of the 1960s live-action series.": [
+    0.6,
+    1.0,
+    0.7499999999999999
+  ],
+  "LLM_first|what year was the show premiere?|2004": [
+    1.0,
+    0.25,
+    0.4
+  ]
+}

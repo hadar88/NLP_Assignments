@@ -208,6 +208,12 @@ llm_all_results = {
     'count': len(llm_all_scores['f1'])
 }
 
+
+
+
+
+
+
 # Display comprehensive results
 print("\n4.4.1 Comparison - First Questions Only:")
 print("Configuration      | Precision | Recall | F1 Score | Count")
