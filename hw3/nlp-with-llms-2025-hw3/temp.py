@@ -127,14 +127,6 @@ def evaluate_llm_all_questions(dataset):
     return examples, predictions
 
 
-
-
-
-
-
-
-
-
 # 4.4.1 Evaluation
 print("4.4.1 - Evaluating LLM on first questions (same scope as Part 1)...")
 val_examples_llm_first, val_predictions_llm_first = evaluate_llm_first_questions(val_data)

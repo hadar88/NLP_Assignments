@@ -173,6 +173,12 @@ In each turn, the model will have access as input to the following:
 * The current question.
 * The context retrieved by the retriever model given the current question.
 
+Your model can enrich this by computing additional intermediary fields, for example:
+* A summary of the student's goal or interests based on the conversation history
+* A pragmatic or cooperative need underlying the student's current question (based on the past conversation and retrieved spans)
+* A generated "cooperative" question which can be used to re-query the source documents and extract additional context
+* A reasoning field computed by a Chain-of-Thought module for any of these intermediary steps
+
 Implement the DSPy Module: Create a DSPy module that uses the strategy you devise to generate a cooperative answer.
 
 For reference, you can start from the DSPy tutorials demonstrating variations around RAG:
